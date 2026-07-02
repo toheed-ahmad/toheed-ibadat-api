@@ -1,0 +1,72 @@
+{
+  "app_name": {
+    "ur": "یاد الٰہی",
+    "en": "Yade-Ilahi"
+  },
+  "modules": [
+    {
+      "id": "durood",
+      "title": {
+        "ur": "فضائل درود شریف",
+        "en": "Virtues of Durood Sharif"
+      },
+      "file": "durood_sharif.json"
+    },
+    {
+      "id": "dua",
+      "title": {
+        "ur": "مسنون دعائیں",
+        "en": "Masnoon Duain"
+      },
+      "file": "masnoon_duain.json"
+    },
+    {
+      "id": "kalma_iman",
+      "title": {
+        "ur": "کلماتِ اسلام اور عقائدِ ایمان",
+        "en": "Kalmas & Articles of Faith"
+      },
+      "file": "kalma_iman.json"
+    },
+    {
+      "id": "Namaz",
+      "title": {
+        "ur": "نماز",
+        "en": "Namaz"
+      },
+      "file": "Namaz.json"
+    },
+    {
+      "id": "roza",
+      "title": {
+        "ur": "روزہ کے احکام و فضائل",
+        "en": "Rules & Virtues of Fasting"
+      },
+      "file": "roza.json"
+    },
+    {
+      "id": "zakat",
+      "title": {
+        "ur": "زکوٰۃ کے احکام و فضائل",
+        "en": "Rules & Virtues of Zakat"
+      },
+      "file": "zakat.json"
+    },
+     {
+      "id": "hajj",
+      "title": {
+        "ur": "حج اور عمرہ",
+        "en": "Hajj & Umrah"
+      },
+      "file": "haj.json"
+    },
+    {
+      "id": "qurbani",
+      "title": {
+        "ur": "قربانی کے احکام و دعائیں",
+        "en": "Rules & Duas of Qurbani"
+      },
+      "file": "qurbani.json"
+    }
+  ]
+}

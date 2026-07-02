@@ -1,0 +1,226 @@
+{
+  "title": "احکام و فضائلِ روزہ | Virtues & Rules of Fasting",
+  "language": "ur",
+  "chapters": [
+    {
+      "id": 1,
+      "category": "roza_virtues",
+      "chapter_id": 1,
+      "title": {
+        "ur": "باب روزہ کی فرضیت اور فضیلت",
+        "hi": "रोज़ा की फ़र्ज़ियत और फ़ज़ीलत",
+        "en": "Obligation & Virtues of Fasting"
+      },
+      "duas": [
+        {
+          "id": 1,
+          "chapter_id": 1,
+          "title": {
+            "ur": "روزہ کا قرآنی حکم",
+            "hi": "रोज़ा का क़ुरानी हुक्म",
+            "en": "Quranic Commandment of Fasting"
+          },
+          "text": {
+            "ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+            "ur": "اے ایمان والو! تم پر روزے فرض کیے گئے ہیں جیسے تم سے پہلے لوگوں پر فرض کیے گئے تھے تاکہ تم پرہیزگار بن جاؤ۔",
+            "hi": "ऐ ईमान वालों! तुम पर रोज़े फ़र्ज़ किए गए हैं जैसे तुम से पहले लोगों पर फ़र्ज़ किए गए थे ताकि तुम परहेज़गार बन जाओ।",
+            "en": "O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous."
+          },
+          "reference": {
+            "book": "القرآن الكريم",
+            "chapter": "سورة البقرة",
+            "hadith_no": "آیت 183"
+          }
+        },
+        {
+          "id": 2,
+          "chapter_id": 1,
+          "title": {
+            "ur": "روزہ داروں کے لیے باب الرّیان",
+            "hi": "रोज़ेदारों के लिए बाब-अर-रैयान",
+            "en": "Bab-ar-Rayan for Those Who Fast"
+          },
+          "text": {
+            "ar": "عَنْ سَهْلٍ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ ﷺ قَالَ: «إِنَّ فِي الجَنَّةِ بَابًا يُقَالُ لَهُ الرَّيَّانُ، يَدْخُلُ مِنْهُ الصَّائِمُونَ يَوْمَ القِيَامَةِ، لاَ يَدْخُلُ مِنْهُ أَحَدٌ غَيْرُهُمْ»",
+            "ur": "حضرت سہل رضی اللہ عنہ سے روایت ہے کہ نبی کریم ﷺ نے فرمایا: جنت کا ایک دروازہ ہے جسے 'ریان' کہا جاتا ہے، قیامت کے دن اس سے صرف روزہ دار ہی داخل ہوں گے، ان کے سوا کوئی اور اس سے داخل نہیں ہو سکے گا۔",
+            "hi": "हज़रत सहल रज़ियल्लाहु अन्हु से रिवायत है कि नबी करीम ﷺ ने फ़रमाया: जन्नत का एक दरवाज़ा है जिसे 'रैयान' कहा जाता है, क़ियामत के दिन उससे सिर्फ़ रोज़ेदार ही दाख़िल होंगे, उनके सिवा कोई और उससे दाख़िल नहीं हो सकेगा।",
+            "en": "Sahl reported that the Prophet ﷺ said: In Paradise there is a gate which is called Ar-Rayan through which only those who fast will enter on the Day of Resurrection, and none but they will enter through it."
+          },
+          "reference": {
+            "book": "صحيح البخاري",
+            "chapter": "كتاب الصوم",
+            "hadith_no": "1896"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "roza_duas",
+      "chapter_id": 2,
+      "title": {
+        "ur": "باب سحری اور افطاری کی دعائیں",
+        "hi": "सह्री और इफ़्तारी की दुआएँ",
+        "en": "Supplications for Sehri & Iftari"
+      },
+      "duas": [
+        {
+          "id": 3,
+          "chapter_id": 2,
+          "title": {
+            "ur": "سحری (روزہ رکھنے) کی نیت",
+            "hi": "सह्री (रोज़ा रखने) की नीयत",
+            "en": "Intention for Fasting (Sehri)"
+          },
+          "text": {
+            "ar": "وَبِصَوْمِ غَدٍ نَّوَيْتُ مِنْ شَهْرِ رَمَضَانَ",
+            "ur": "اور میں نے رمضان کے کل کے روزے کی نیت کی۔",
+            "hi": "और मैंने रमज़ान के कल के रोज़े की नीयत की।",
+            "en": "And I intend to keep the tomorrow's fast of the month of Ramadan."
+          },
+          "reference": {
+            "book": "فقهی کتب / عن السلف",
+            "chapter": "نية الصيام",
+            "hadith_no": "مأثور"
+          }
+        },
+        {
+          "id": 4,
+          "chapter_id": 2,
+          "title": {
+            "ur": "افطار کی مسنون دعا",
+            "hi": "इफ़्तार की मसनून दुआ",
+            "en": "Supplication for Breaking the Fast (Iftari)"
+          },
+          "text": {
+            "ar": "ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ، وَثَبَتَ الأَجْرُ إِنْ شَاءَ اللَّهُ",
+            "ur": "پیاس چلی گئی، رگیں تر ہو گئیں اور اللہ نے چاہا تو اجر قائم ہو گیا۔",
+            "hi": "प्यास चली गई, रगें तर हो गईं और अल्लाह ने चाहा तो अजर (पुण्य) क़ायम हो गया।",
+            "en": "The thirst is gone, the veins are moistened, and the reward is confirmed, if Allah wills."
+          },
+          "reference": {
+            "book": "سنن أبي داود",
+            "chapter": "كتاب الصيام",
+            "hadith_no": "2357"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "roza_merits",
+      "chapter_id": 3,
+      "title": {
+        "ur": "باب سحری کی برکت اور افطار میں جلدی",
+        "hi": "सह्री की बरकत और इफ़्तार में जल्दी",
+        "en": "Blessings of Sehri & Promptness in Iftari"
+      },
+      "duas": [
+        {
+          "id": 5,
+          "chapter_id": 3,
+          "title": {
+            "ur": "سحری کھانے کی فضیلت",
+            "hi": "सह्री खाने की फ़ज़ीलत",
+            "en": "The Blessing of Eating Sehri"
+          },
+          "text": {
+            "ar": "عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ النَّبِيُّ ﷺ: «تَسَحَّرُوا فَإِنَّ فِي السَّحُورِ بَرَكَةً»",
+            "ur": "حضرت انس بن مالک رضی اللہ عنہ سے روایت ہے کہ نبی کریم ﷺ نے فرمایا: سحری کھایا کرو کیونکہ سحری کھانے میں برکت ہے۔",
+            "hi": "हज़रत अनस बिन मालिक रज़ियल्लाहु अन्हु से रिवायत है कि नबी करीम ﷺ ने फ़रमाया: सह्री खाया करो क्योंकि सह्री खाने में बरकत है।",
+            "en": "Anas bin Malik reported that the Prophet ﷺ said: Eat Sehri (pre-dawn meal), for indeed there is blessing in Sehri."
+          },
+          "reference": {
+            "book": "صحيح البخاري",
+            "chapter": "كتاب الصوم",
+            "hadith_no": "1923"
+          }
+        },
+        {
+          "id": 6,
+          "chapter_id": 3,
+          "title": {
+            "ur": "افطار میں جلدی کرنے کی فضیلت",
+            "hi": "इफ़्तार में जल्दी करने की फ़ज़ीलत",
+            "en": "Hastening in Breaking the Fast"
+          },
+          "text": {
+            "ar": "عَنْ سَهْلِ بْنِ سَعْدٍ أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: «لاَ يَزَالُ النَّاسُ بِخَيْرٍ مَا عَجَّلُوا الفِطْرَ»",
+            "ur": "حضرت سہل بن سعد رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: لوگ ہمیشہ بھلائی پر رہیں گے جب تک وہ افطار میں جلدی کریں گے (یعنی وقت ہوتے ہی افطار کر لیں گے)۔",
+            "hi": "हज़रत सहल बिन साद रज़ियल्लाहु अन्हु से रिवायत है कि रसूलुल्लाह ﷺ ने फ़रमाया: लोग हमेशा भलाई पर रहेंगे जब तक वह इफ़्तार में जल्दी करेंगे (यानी वक़्त होते ही इफ़्तार कर लेंगे)।",
+            "en": "Sahl bin Sa'd reported that the Messenger of Allah ﷺ said: The people will remain upon goodness as long as they hasten to break their fast."
+          },
+          "reference": {
+            "book": "صحيح البخاري",
+            "chapter": "كتاب الصوم",
+            "hadith_no": "1957"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "roza_laylatul_qadr",
+      "chapter_id": 4,
+      "title": {
+        "ur": "باب شبِ قدر کی فضیلت اور دعا",
+        "hi": "शब-ए-क़द्र की फ़ज़ीलत और दुआ",
+        "en": "Virtues & Supplication of Laylatul Qadr"
+      },
+      "duas": [
+        {
+          "id": 7,
+          "chapter_id": 4,
+          "title": {
+            "ur": "شبِ قدر کی خاص دعا",
+            "hi": "शब-ए-क़द्र की ख़ास दुआ",
+            "en": "Special Supplication for Laylatul Qadr"
+          },
+          "text": {
+            "ar": "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+            "ur": "اے اللہ! بیشک تو بہت معاف کرنے والا ہے، معاف کرنے کو پسند کرتا ہے، پس مجھے معاف فرما دے۔",
+            "hi": "ऐ अल्लाह! बेशक तू बहुत माफ़ करने वाला है, माफ़ करने को पसंद करता है, पस मुझे माफ़ फ़रमा दे।",
+            "en": "O Allah, indeed You are One who forgives, You love forgiveness, so forgive me."
+          },
+          "reference": {
+            "book": "سنن الترمذي",
+            "chapter": "كتاب الدعوات",
+            "hadith_no": "3513"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "roza_invalidators",
+      "chapter_id": 5,
+      "title": {
+        "ur": "باب روزہ کی اخلاقی حفاظت",
+        "hi": "रोज़ा की अख़लाक़ी हिफ़ाज़त",
+        "en": "Moral Protection of the Fast"
+      },
+      "duas": [
+        {
+          "id": 8,
+          "chapter_id": 5,
+          "title": {
+            "ur": "جھوٹ اور برے کاموں سے پرہیز",
+            "hi": "झूठ और बुरे कामों से परहेज़",
+            "en": "Avoiding Falsehood and Evil Deeds"
+          },
+          "text": {
+            "ar": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ: «مَنْ لَمْ يَدَعْ قَوْلَ الزُّورِ وَالعَمَلَ بِهِ، فَلَيْسَ لِلَّهِ حَاجَةٌ فِي أَنْ يَدَعَ طَعَامَهُ وَشَرَابَهُ»",
+            "ur": "حضرت ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: جو شخص (روزہ رکھ کر بھی) جھوٹ بولنا اور اس پر عمل کرنا نہ چھوڑے، تو اللہ کو اس کی کوئی ضرورت نہیں کہ وہ اپنا کھانا اور پینا چھوڑے۔",
+            "hi": "हज़रत अबू हुरैरा रज़ियल्लाहु अन्हु से रिवायत है कि रसूलुल्लाह ﷺ ने फ़रमाया: जो शख़्स (रोज़ा रखकर भी) झूठ बोलना और उस पर अमल करना न छोड़े, तो अल्लाह को उसकी कोई ज़रूरत नहीं कि वह अपना खाना और पीना छोड़े।",
+            "en": "Abu Hurairah reported that the Messenger of Allah ﷺ said: Whoever does not give up false speech and evil deeds, Allah is not in need of his leaving his food and drink."
+          },
+          "reference": {
+            "book": "صحيح البخاري",
+            "chapter": "كتاب الصوم",
+            "hadith_no": "1903"
+          }
+        }
+      ]
+    }
+  ]
+}
