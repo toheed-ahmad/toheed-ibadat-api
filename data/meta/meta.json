@@ -29,10 +29,10 @@
       "file": "kalma_iman.json"
     },
     {
-      "id": "Namaz",
+      "id": "namaz",
       "title": {
         "ur": "نماز",
-        "en": "Namaz"
+        "en": "namaz"
       },
       "file": "Namaz.json"
     },
