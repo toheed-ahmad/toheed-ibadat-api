@@ -37,6 +37,14 @@
       "file": "namaz.json"
     },
     {
+      "id": "khutbat",
+      "title": {
+        "ur": "خطبات جمعہ وعیدین و نکاح",
+        "en": "Friday, Eid & Nikah Sermons"
+      },
+      "file": "khutbat.json"
+    },
+    {
       "id": "roza",
       "title": {
         "ur": "روزہ کے احکام و فضائل",

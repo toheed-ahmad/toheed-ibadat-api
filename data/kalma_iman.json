@@ -4,21 +4,25 @@
   "chapters": [
     {
       "id": 1,
-      "category": "kalma_1",
-      "chapter_id": 1,
+      "category": "kalmas",
       "title": {
-        "ur": "باب اول: کلمہ طیبہ",
-        "hi": "पहला बाब: कलिमा तैयबा",
-        "en": "Chapter 1: Kalma Tayyaba"
+        "ur": "باب اول: کلماتِ اسلام (چھ کلمے)",
+        "hi": "पहला बाब: कलिमात-ए-इस्लाम (छह कलिमे)",
+        "en": "Chapter 1: Kalmas of Islam (Six Kalmas)"
+      },
+      "description": {
+        "ur": "اس باب میں اسلام کے چھ بنیادی کلمات شامل ہیں جو ایمان کی بنیاد ہیں۔",
+        "hi": "इस बाब में इस्लाम के छह बुनियादी कलिमे शामिल हैं जो ईमान की बुनियाद हैं।",
+        "en": "This chapter contains the six fundamental Kalmas of Islam that form the foundation of faith."
       },
       "duas": [
         {
           "id": 1,
-          "chapter_id": 1,
+          "sub_category": "kalma_tayyaba",
           "title": {
-            "ur": "پہلا کلمہ طیب",
-            "hi": "पहला कलिमा तैयब",
-            "en": "First Kalma Tayyab"
+            "ur": "پہلا کلمہ طیبہ",
+            "hi": "पहला कलिमा तैयबा",
+            "en": "First Kalma Tayyaba"
           },
           "text": {
             "ar": "لَا إِلٰهَ إِلَّا اللّٰهُ مُحَمَّدٌ رَّسُولُ اللّٰهِ",
@@ -30,23 +34,15 @@
             "book": "صحيح البخاري / سنن الترمذي",
             "chapter": "كتاب الإيمان",
             "hadith_no": "اصلِ دین"
+          },
+          "benefits": {
+            "ur": "اس کلمے کا ورد کرنے سے ایمان تازہ ہوتا ہے اور دل کو سکون ملتا ہے۔",
+            "en": "Reciting this Kalma renews faith and brings peace to the heart."
           }
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "category": "kalma_2",
-      "chapter_id": 2,
-      "title": {
-        "ur": "باب دوم: کلمہ شہادت",
-        "hi": "दूसरा बाब: कलिमा शहादत",
-        "en": "Chapter 2: Kalma Shahadat"
-      },
-      "duas": [
+        },
         {
           "id": 2,
-          "chapter_id": 2,
+          "sub_category": "kalma_shahadat",
           "title": {
             "ur": "دوسرا کلمہ شہادت",
             "hi": "दूसरा कलिमा शहादत",
@@ -62,23 +58,15 @@
             "book": "صحيح مسلم",
             "chapter": "كتاب الطهارة",
             "hadith_no": "234"
+          },
+          "benefits": {
+            "ur": "اس کلمے کے ذریعے اسلام کا اقرار کیا جاتا ہے اور یہ جنت کا کلید ہے۔",
+            "en": "This Kalma is the declaration of Islam and the key to Paradise."
           }
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "category": "kalma_3",
-      "chapter_id": 3,
-      "title": {
-        "ur": "باب سوم: کلمہ تمجید",
-        "hi": "तीसरा बाब: कलिमा तमजीद",
-        "en": "Chapter 3: Kalma Tamjeed"
-      },
-      "duas": [
+        },
         {
           "id": 3,
-          "chapter_id": 3,
+          "sub_category": "kalma_tamjeed",
           "title": {
             "ur": "تیسرا کلمہ تمجید",
             "hi": "तीसरा कलिमा तमजीद",
@@ -94,23 +82,15 @@
             "book": "صحيح مسلم / سنن ابن ماجه",
             "chapter": "كتاب الأذكار",
             "hadith_no": "الباقيات الصالحات"
+          },
+          "benefits": {
+            "ur": "اس کلمے میں اللہ کی پاکیزگی اور عظمت کا اظہار ہے، روزانہ پڑھنے سے گناہ معاف ہوتے ہیں۔",
+            "en": "This Kalma glorifies Allah's purity and greatness; reciting it daily brings forgiveness."
           }
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "category": "kalma_4",
-      "chapter_id": 4,
-      "title": {
-        "ur": "باب چہارم: کلمہ توحید",
-        "hi": "चौथा बाब: कलिमा तौहीद",
-        "en": "Chapter 4: Kalma Tauheed"
-      },
-      "duas": [
+        },
         {
           "id": 4,
-          "chapter_id": 4,
+          "sub_category": "kalma_tauheed",
           "title": {
             "ur": "چوتھا کلمہ توحید",
             "hi": "चौथा कलिमा तौहीद",
@@ -126,23 +106,15 @@
             "book": "سنن الترمذي",
             "chapter": "كتاب الدعوات",
             "hadith_no": "3428"
+          },
+          "benefits": {
+            "ur": "اس کلمے میں اللہ کی وحدانیت اور اس کی تمام صفات کا اظہار ہے۔",
+            "en": "This Kalma expresses Allah's Oneness and all His attributes."
           }
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "category": "kalma_5",
-      "chapter_id": 5,
-      "title": {
-        "ur": "باب پنجم: کلمہ استغفار",
-        "hi": "पांचवां बाब: कलिमा इस्तिग़फ़ार",
-        "en": "Chapter 5: Kalma Astaghfar"
-      },
-      "duas": [
+        },
         {
           "id": 5,
-          "chapter_id": 5,
+          "sub_category": "kalma_astaghfar",
           "title": {
             "ur": "پانچواں کلمہ استغفار",
             "hi": "पांचवां कलिमा इस्तिग़फ़ार",
@@ -158,23 +130,15 @@
             "book": "الأذكار النووية",
             "chapter": "باب الاستغفار",
             "hadith_no": "أدعية مأثورة"
+          },
+          "benefits": {
+            "ur": "اس کلمے کے ذریعے اللہ سے معافی مانگی جاتی ہے اور یہ گناہوں کو مٹانے کا سبب ہے۔",
+            "en": "This Kalma is seeking forgiveness from Allah and erases sins."
           }
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "category": "kalma_6",
-      "chapter_id": 6,
-      "title": {
-        "ur": "باب ششم: کلمہ ردِ کفر",
-        "hi": "छठा बाब: कलिमा रद्दे कुफ़्र",
-        "en": "Chapter 6: Kalma Radde Kufr"
-      },
-      "duas": [
+        },
         {
           "id": 6,
-          "chapter_id": 6,
+          "sub_category": "kalma_radde_kufr",
           "title": {
             "ur": "چھٹا کلمہ ردِ کفر",
             "hi": "छठा कलिमा रद्दे कुफ़्र",
@@ -190,27 +154,35 @@
             "book": "الأذكار النووية / مجموع الفتاوى",
             "chapter": "باب التوبة والاستغفار",
             "hadith_no": "أدعية مأثورة"
+          },
+          "benefits": {
+            "ur": "اس کلمے کے ذریعے کفر اور شرک سے برائت کا اظہار کیا جاتا ہے اور ایمان کی حفاظت ہوتی ہے۔",
+            "en": "This Kalma renounces disbelief and polytheism, protecting one's faith."
           }
         }
       ]
     },
     {
-      "id": 7,
-      "category": "iman_mufassal",
-      "chapter_id": 7,
+      "id": 2,
+      "category": "iman",
       "title": {
-        "ur": "باب ہفتم: ایمان مفصل",
-        "hi": "सातवां बाब: ईमान मुफ़स्सल",
-        "en": "Chapter 7: Iman-e-Mufassal (Detailed Faith)"
+        "ur": "باب دوم: عقائدِ ایمان (ایمان مفصل و مجمل)",
+        "hi": "दूसरा बाब: अक़ाइद-ए-ईमान (ईमान मुफ़स्सल व मुजमल)",
+        "en": "Chapter 2: Articles of Faith (Iman-e-Mufassal & Mujmal)"
+      },
+      "description": {
+        "ur": "اس باب میں ایمان کی تفصیل اور اجمال شامل ہیں جو ہر مسلمان کے لیے ضروری ہیں۔",
+        "hi": "इस बाब में ईमान की तफ़सील और इज्माल शामिल हैं जो हर मुसलमान के लिए ज़रूरी हैं।",
+        "en": "This chapter contains the detailed and comprehensive articles of faith essential for every Muslim."
       },
       "duas": [
         {
           "id": 7,
-          "chapter_id": 7,
+          "sub_category": "iman_mufassal",
           "title": {
             "ur": "ایمان مفصل",
             "hi": "ईमान मुफ़स्सल",
-            "en": "Iman-e-Mufassal"
+            "en": "Iman-e-Mufassal (Detailed Faith)"
           },
           "text": {
             "ar": "آمَنْتُ بِاللّٰهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الْآخِرِ وَالْقَدَرِ خَيْرِهِ وَشَرِّهِ مِنَ اللّٰهِ تَعَالَىٰ وَالْبَعْثِ بَعْدَ الْمَوْتِ",
@@ -222,27 +194,37 @@
             "book": "تعلیم الاسلام / شرح عقائد",
             "chapter": "ارکان ایمان",
             "hadith_no": "متفق علیہ"
+          },
+          "explanation": {
+            "ur": "ایمان مفصل میں ایمان کے چھ ارکان کا تفصیلی بیان ہے جو ہر مسلمان پر لازم ہیں۔",
+            "en": "Iman-e-Mufassal explains the six articles of faith in detail that are obligatory upon every Muslim."
+          },
+          "key_points": {
+            "ur": [
+              "اللہ پر ایمان",
+              "فرشتوں پر ایمان",
+              "کتابوں پر ایمان",
+              "رسولوں پر ایمان",
+              "یوم آخرت پر ایمان",
+              "تقدیر پر ایمان (خیر و شر)"
+            ],
+            "en": [
+              "Belief in Allah",
+              "Belief in Angels",
+              "Belief in Books",
+              "Belief in Messengers",
+              "Belief in the Day of Judgment",
+              "Belief in Divine Decree (good and bad)"
+            ]
           }
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "category": "iman_mujmal",
-      "chapter_id": 8,
-      "title": {
-        "ur": "باب ہشتم: ایمان مجمل",
-        "hi": "आठवां बाब: ईमान मुजमल",
-        "en": "Chapter 8: Iman-e-Mujmal (Comprehensive Faith)"
-      },
-      "duas": [
+        },
         {
           "id": 8,
-          "chapter_id": 8,
+          "sub_category": "iman_mujmal",
           "title": {
             "ur": "ایمان مجمل",
             "hi": "ईमान मुजमल",
-            "en": "Iman-e-Mujmal"
+            "en": "Iman-e-Mujmal (Comprehensive Faith)"
           },
           "text": {
             "ar": "آمَنْتُ بِاللّٰهِ كَمَا هُوَ بِأَسْمَائِهِ وَصِفَاتِهِ وَقَبِلْتُ جَمِيعَ أَحْكَامِهِ",
@@ -254,313 +236,35 @@
             "book": "العقيدة الطحاوية",
             "chapter": "باب الإيمان",
             "hadith_no": "أصل العقيدة"
-          }
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "category": "articles_of_faith_detailed",
-      "chapter_id": 9,
-      "title": {
-        "ur": "باب نہم: عقائد ایمان کی تفصیل",
-        "hi": "नौंवा बाब: अक़ाइदे ईमान की तफ़सील",
-        "en": "Chapter 9: Detailed Articles of Faith"
-      },
-      "duas": [
-        {
-          "id": 9,
-          "chapter_id": 9,
-          "title": {
-            "ur": "ایمان باللہ",
-            "hi": "ईमान बिल्लाह",
-            "en": "Faith in Allah"
           },
-          "text": {
-            "ar": "اللَّهُ رَبِّي، لَا إِلَٰهَ إِلَّا هُوَ، خَالِقُ كُلِّ شَيْءٍ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ وَكِيلٌ",
-            "ur": "اللہ میرا رب ہے، اس کے سوا کوئی معبود نہیں، وہ ہر چیز کا خالق ہے اور وہی ہر چیز کا کارساز ہے۔",
-            "hi": "अल्लाह मेरा रब है, उसके सिवा कोई माबूद नहीं, वह हर चीज़ का ख़ालिक़ है और वही हर चीज़ का कारसाज़ है।",
-            "en": "Allah is my Lord, there is no god but He, the Creator of all things, and He is the Disposer of all affairs."
+          "explanation": {
+            "ur": "ایمان مجمل میں اللہ پر اس کے ناموں اور صفات کے ساتھ ایمان کا مختصر اور جامع اقرار ہے۔",
+            "en": "Iman-e-Mujmal is a concise and comprehensive declaration of faith in Allah with His Names and Attributes."
           },
-          "reference": {
-            "book": "القرآن الكريم",
-            "chapter": "سورہ انعام / الزمر",
-            "hadith_no": "آیت الکرسی"
-          }
-        },
-        {
-          "id": 10,
-          "chapter_id": 9,
-          "title": {
-            "ur": "ایمان بالملائکہ",
-            "hi": "ईमान बिल्मलाइका",
-            "en": "Faith in Angels"
-          },
-          "text": {
-            "ar": "مَلَائِكَةُ اللَّهِ مَخْلُوقُونَ مِنْ نُورٍ، مُكَرَّمُونَ عِبَادٌ، لَا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
-            "ur": "اللہ کے فرشتے نور سے پیدا کیے گئے ہیں، وہ معزز بندے ہیں، اللہ کے حکم کی خلاف ورزی نہیں کرتے اور جو حکم دیا جائے بجا لاتے ہیں۔",
-            "hi": "अल्लाह के फ़रिश्ते नूर से पैदा किए गए हैं, वह मो'अज़्ज़ज़ बंदे हैं, अल्लाह के हुक्म की ख़िलाफ़वरज़ी नहीं करते और जो हुक्म दिया जाए बजा लाते हैं।",
-            "en": "The angels of Allah are created from light, honored servants who do not disobey Allah's commands and do as they are ordered."
-          },
-          "reference": {
-            "book": "صحيح مسلم",
-            "chapter": "كتاب الزهد",
-            "hadith_no": "2996"
-          }
-        },
-        {
-          "id": 11,
-          "chapter_id": 9,
-          "title": {
-            "ur": "ایمان بالکتب",
-            "hi": "ईमान बिल्कुतुब",
-            "en": "Faith in Divine Books"
-          },
-          "text": {
-            "ar": "نَزَّلَ اللَّهُ كُتُبًا عَلَىٰ رُسُلِهِ، مِنْهَا: التَّوْرَاةُ، وَالزَّبُورُ، وَالْإِنْجِيلُ، وَالْقُرْآنُ الْكَرِيمُ وَهُوَ أَفْضَلُهَا وَمُهَيْمِنٌ عَلَيْهَا",
-            "ur": "اللہ نے اپنے رسولوں پر کتابیں نازل کیں، جن میں تورات، زبور، انجیل اور قرآن کریم شامل ہیں، اور قرآن کریم ان سب سے افضل اور ان پر ناظر و محافظ ہے۔",
-            "hi": "अल्लाह ने अपने रसूलों पर किताबें नाज़िल कीं, जिनमें तौरात, ज़बूर, इंजील और क़ुरआन करीम शामिल हैं, और क़ुरआन करीम इन सब से अफ़ज़ल और इन पर नाज़िर व मुहाफ़िज़ है।",
-            "en": "Allah revealed Books to His Messengers, including the Torah, the Psalms, the Gospel, and the Holy Qur'an, which is the best of them and a guardian over them."
-          },
-          "reference": {
-            "book": "القرآن الكريم",
-            "chapter": "سورہ مائدہ / سورہ اسراء",
-            "hadith_no": "آیت 48 / 55"
-          }
-        },
-        {
-          "id": 12,
-          "chapter_id": 9,
-          "title": {
-            "ur": "ایمان بالرسل",
-            "hi": "ईमान बिर्रुसुल",
-            "en": "Faith in Messengers"
-          },
-          "text": {
-            "ar": "أَرْسَلَ اللَّهُ رُسُلًا مُبَشِّرِينَ وَمُنْذِرِينَ، أَوَّلُهُمْ آدَمُ وَآخِرُهُمْ مُحَمَّدٌ ﷺ، وَهُمْ بَشَرٌ مَّخْلُوقُونَ، يُبَلِّغُونَ رِسَالَاتِ رَبِّهِمْ",
-            "ur": "اللہ نے رسولوں کو بشارت دینے والے اور ڈرانے والے بنا کر بھیجا، ان میں پہلے آدم علیہ السلام اور آخری محمد ﷺ ہیں، وہ انسان ہیں مخلوق، اپنے رب کے پیغامات پہنچاتے ہیں۔",
-            "hi": "अल्लाह ने रसूलों को बशारत देने वाले और डराने वाले बना कर भेजा, उन में पहले आदम अलैहिस्सलाम और आख़िरी मुहम्मद ﷺ हैं, वह इंसान हैं मख़लूक़, अपने रब के पैग़ामात पहुँचाते हैं।",
-            "en": "Allah sent Messengers as bearers of glad tidings and warners, the first of them Adam (peace be upon him) and the last of them Muhammad ﷺ. They are created human beings who convey the messages of their Lord."
-          },
-          "reference": {
-            "book": "صحيح البخاري",
-            "chapter": "كتاب الأنبياء",
-            "hadith_no": "3350"
-          }
-        },
-        {
-          "id": 13,
-          "chapter_id": 9,
-          "title": {
-            "ur": "ایمان بالیوم الآخر",
-            "hi": "ईमान बिल्यौमिल आख़िर",
-            "en": "Faith in the Last Day"
-          },
-          "text": {
-            "ar": "الْيَوْمُ الْآخِرُ حَقٌّ، فِيهِ الْحِسَابُ وَالْجَزَاءُ، الْجَنَّةُ وَالنَّارُ، وَالْمِيزَانُ وَالصِّرَاطُ، كَمَا جَاءَ فِي الْكِتَابِ وَالسُّنَّةِ",
-            "ur": "قیامت کا دن برحق ہے، اس میں حساب اور جزا ہوگی، جنت اور جہنم، میزان اور صراط، جیسا کہ کتاب و سنت میں آیا ہے۔",
-            "hi": "क़यामत का दिन बरहक़ है, इसमें हिसाब और जज़ा होगी, जन्नत और जहन्नम, मीज़ान और सिरात, जैसा कि किताब व सुन्नत में आया है।",
-            "en": "The Day of Judgment is true, wherein there will be reckoning and recompense, Paradise and Hell, the Scale (Mizan) and the Bridge (Sirat), as mentioned in the Book and the Sunnah."
-          },
-          "reference": {
-            "book": "القرآن الكريم / صحيح مسلم",
-            "chapter": "سورہ زلزال / كتاب الإيمان",
-            "hadith_no": "آیت 6-8 / 203"
-          }
-        },
-        {
-          "id": 14,
-          "chapter_id": 9,
-          "title": {
-            "ur": "ایمان بالقدر",
-            "hi": "ईमान बिल्क़दर",
-            "en": "Faith in Divine Decree (Qadar)"
-          },
-          "text": {
-            "ar": "قَدَرُ اللَّهِ خَيْرُهُ وَشَرُّهُ، حَلْوُهُ وَمُرُّهُ، مِنَ اللَّهِ تَعَالَى، عَلِمَهُ قَبْلَ أَنْ يَخْلُقَ الْخَلْقَ، وَكَتَبَهُ فِي اللَّوْحِ الْمَحْفُوظِ",
-            "ur": "اللہ کی تقدیر کی اچھائی اور برائی، میٹھا اور کڑوا، سب اللہ تعالیٰ کی طرف سے ہے، اسے اس نے مخلوق کو پیدا کرنے سے پہلے جانا اور لوح محفوظ میں لکھ دیا۔",
-            "hi": "अल्लाह की तक़दीर की अच्छाई और बुराई, मीठा और कड़वा, सब अल्लाह तआला की तरफ़ से है, उसे उसने मख़लूक़ को पैदा करने से पहले जाना और लौहे महफ़ूज़ में लिख दिया।",
-            "en": "The divine decree of Allah — its good and its bad, its sweet and its bitter — is from Allah Almighty. He knew it before creating the creation and wrote it in the Preserved Tablet (Al-Lawh Al-Mahfuz)."
-          },
-          "reference": {
-            "book": "صحيح مسلم",
-            "chapter": "كتاب القدر",
-            "hadith_no": "2653"
-          }
-        },
-        {
-          "id": 15,
-          "chapter_id": 9,
-          "title": {
-            "ur": "ایمان بالبعث بعد الموت",
-            "hi": "ईमान बिल्ब'अस ब'अदल मौत",
-            "en": "Faith in Resurrection after Death"
-          },
-          "text": {
-            "ar": "يَوْمَ يَبْعَثُ اللَّهُ الْخَلْقَ جَمِيعًا لِلْحِسَابِ، وَيُجَازِي كُلَّ نَفْسٍ بِمَا كَسَبَتْ، وَهُوَ سَرِيعُ الْحِسَابِ",
-            "ur": "جس دن اللہ تمام مخلوق کو حساب کے لیے اٹھائے گا اور ہر نفس کو اس کے کیے کا بدلہ دے گا، اور وہ حساب لینے میں بہت تیز ہے۔",
-            "hi": "जिस दिन अल्लाह तमाम मख़लूक़ को हिसाब के लिए उठाएगा और हर नफ़्स को उसके किए का बदला देगा, और वह हिसाब लेने में बहुत तेज़ है।",
-            "en": "The day when Allah will raise all creation for reckoning and recompense every soul for what it earned, and He is swift in reckoning."
-          },
-          "reference": {
-            "book": "القرآن الكريم",
-            "chapter": "سورہ آل عمران / سورہ غافر",
-            "hadith_no": "آیت 185 / 17"
-          }
-        },
-        {
-          "id": 16,
-          "chapter_id": 9,
-          "title": {
-            "ur": "ایمان بالجنة والنار",
-            "hi": "ईमान बिल्जन्नति वन्नार",
-            "en": "Faith in Paradise and Hell"
-          },
-          "text": {
-            "ar": "الْجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، مَخْلُوقَتَانِ مَوْجُودَتَانِ، دَائِمَتَانِ غَيْرُ فَانِيَتَيْنِ لِأَهْلِهِمَا",
-            "ur": "جنت برحق ہے اور جہنم برحق ہے، وہ دونوں پیدا شدہ اور موجود ہیں، ہمیشہ رہنے والی ہیں اور اپنے باشندوں کے لیے کبھی ختم نہیں ہوں گی۔",
-            "hi": "जन्नत बरहक़ है और जहन्नम बरहक़ है, वह दोनों पैदा शुदा और मौजूद हैं, हमेशा रहने वाली हैं और अपने बाशिंदों के लिए कभी ख़त्म नहीं होंगी।",
-            "en": "Paradise is true and Hell is true. They are both created and existing, eternal and never-ending for their inhabitants."
-          },
-          "reference": {
-            "book": "صحيح البخاري",
-            "chapter": "كتاب بدء الخلق",
-            "hadith_no": "3250"
-          }
-        },
-        {
-          "id": 17,
-          "chapter_id": 9,
-          "title": {
-            "ur": "ایمان بالمیزان",
-            "hi": "ईमान बिल्मीज़ान",
-            "en": "Faith in the Scale (Mizan)"
-          },
-          "text": {
-            "ar": "الْمِيزَانُ حَقٌّ، تُوزَنُ فِيهِ أَعْمَالُ الْعِبَادِ، فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
-            "ur": "میزان برحق ہے، اس میں بندوں کے اعمال تولے جائیں گے، پس جس کے پلڑے بھاری ہوں گے وہی کامیاب ہیں۔",
-            "hi": "मीज़ान बरहक़ है, इसमें बंदों के आ'माल तोले जाएंगे, पस जिस के पलड़े भारी होंगे वही कामयाब हैं।",
-            "en": "The Scale (Mizan) is true, wherein the deeds of the servants will be weighed. So those whose scales are heavy — they are the successful ones."
-          },
-          "reference": {
-            "book": "القرآن الكريم",
-            "chapter": "سورہ اعراف / سورہ مؤمنون",
-            "hadith_no": "آیت 8-9 / 102-103"
-          }
-        },
-        {
-          "id": 18,
-          "chapter_id": 9,
-          "title": {
-            "ur": "ایمان بالصراط",
-            "hi": "ईमान बिस्सिरात",
-            "en": "Faith in the Bridge (Sirat)"
-          },
-          "text": {
-            "ar": "الصِّرَاطُ حَقٌّ، مَوْضُوعٌ عَلَىٰ جَهَنَّمَ، يَجُوزُهُ الْمُؤْمِنُونَ إِلَى الْجَنَّةِ، وَتَسْقُطُ فِيهِ الْكُفَّارُ وَالْعُصَاةُ بِقَدَرِ ذُنُوبِهِمْ",
-            "ur": "صراط برحق ہے، جہنم کے اوپر رکھا ہوا ہے، اس سے مومنین جنت کی طرف گزریں گے، اور کفار اور گنہگار اپنے گناہوں کے مطابق اس میں گر جائیں گے۔",
-            "hi": "सिरात बरहक़ है, जहन्नम के ऊपर रखा हुआ है, इस से मोमिनीन जन्नत की तरफ़ गुज़रेंगे, और कुफ़्फ़ार और गुनहगार अपने गुनाहों के मुताबिक़ इसमें गिर जाएंगे।",
-            "en": "The Bridge (Sirat) is true, placed over Hell. The believers will cross it to Paradise, while the disbelievers and sinners will fall into it according to their sins."
-          },
-          "reference": {
-            "book": "صحيح مسلم",
-            "chapter": "كتاب الإيمان",
-            "hadith_no": "183"
-          }
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "category": "supplementary_articles",
-      "chapter_id": 10,
-      "title": {
-        "ur": "باب دہم: تکمیلی عقائد",
-        "hi": "दसवां बाब: तकमीली अक़ाइद",
-        "en": "Chapter 10: Supplementary Articles of Faith"
-      },
-      "duas": [
-        {
-          "id": 19,
-          "chapter_id": 10,
-          "title": {
-            "ur": "ایمان بالغیب",
-            "hi": "ईमान बिल्ग़ैब",
-            "en": "Faith in the Unseen"
-          },
-          "text": {
-            "ar": "وَالَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
-            "ur": "اور جو لوگ غیب پر ایمان رکھتے ہیں، نماز قائم کرتے ہیں، اور ہم نے جو انہیں دیا ہے اس میں سے خرچ کرتے ہیں۔",
-            "hi": "और जो लोग ग़ैब पर ईमान रखते हैं, नमाज़ क़ायम करते हैं, और हमने जो उन्हें दिया है उसमें से ख़र्च करते हैं।",
-            "en": "And those who believe in the unseen, establish prayer, and spend out of what We have provided for them."
-          },
-          "reference": {
-            "book": "القرآن الكريم",
-            "chapter": "سورہ بقرہ",
-            "hadith_no": "آیت 3"
-          }
-        },
-        {
-          "id": 20,
-          "chapter_id": 10,
-          "title": {
-            "ur": "ایمان بالرسالۃ المحمدیہ",
-            "hi": "ईमान बिर्रिसालतिल मुहम्मदिया",
-            "en": "Faith in the Prophethood of Muhammad ﷺ"
-          },
-          "text": {
-            "ar": "مُحَمَّدٌ رَّسُولُ اللّٰهِ، خَاتَمُ النَّبِيِّينَ، أَرْسَلَهُ اللَّهُ إِلَى النَّاسِ كَافَّةً، بِالْهُدَىٰ وَدِينِ الْحَقِّ",
-            "ur": "محمد ﷺ اللہ کے رسول ہیں، تمام نبیوں کے خاتم ہیں، اللہ نے انہیں تمام لوگوں کے لیے ہدایت اور دین حق کے ساتھ بھیجا۔",
-            "hi": "मुहम्मद ﷺ अल्लाह के रसूल हैं, तमाम नबियों के ख़ातिम हैं, अल्लाह ने उन्हें तमाम लोगों के लिए हिदायत और दीने हक़ के साथ भेजा।",
-            "en": "Muhammad ﷺ is the Messenger of Allah, the Seal of the Prophets, sent by Allah to all mankind with guidance and the religion of truth."
-          },
-          "reference": {
-            "book": "القرآن الكريم / صحيح البخاري",
-            "chapter": "سورہ احزاب / كتاب المناقب",
-            "hadith_no": "آیت 40 / 3535"
-          }
-        },
-        {
-          "id": 21,
-          "chapter_id": 10,
-          "title": {
-            "ur": "ایمان بالصحابہ کرام",
-            "hi": "ईमान बिस्सहाबा किराम",
-            "en": "Faith in the Companions (Sahabah)"
-          },
-          "text": {
-            "ar": "وَالصَّحَابَةُ رَضِيَ اللَّهُ عَنْهُمْ أَجْمَعِينَ، هُمُ الصَّادِقُونَ الَّذِينَ صَحِبُوا النَّبِيَّ ﷺ وَآمَنُوا بِهِ وَنَصَرُوهُ",
-            "ur": "اور تمام صحابہ کرام رضی اللہ عنہم اجمعین، وہ سچے لوگ ہیں جنہوں نے نبی ﷺ کی صحبت اختیار کی، آپ پر ایمان لائے اور آپ کی مدد کی۔",
-            "hi": "और तमाम सहाबा किराम रज़ियल्लाहु अन्हुम अजम'ईन, वह सच्चे लोग हैं जिन्होंने नबी ﷺ की सुहबत इख़्तियार की, आप पर ईमान लाए और आप की मदद की।",
-            "en": "And all the Companions (may Allah be pleased with them all) — they are the truthful ones who accompanied the Prophet ﷺ, believed in him, and supported him."
-          },
-          "reference": {
-            "book": "القرآن الكريم / صحيح البخاري",
-            "chapter": "سورہ توبہ / كتاب فضائل الصحابة",
-            "hadith_no": "آیت 100 / 3676"
-          }
-        },
-        {
-          "id": 22,
-          "chapter_id": 10,
-          "title": {
-            "ur": "ایمان بالفرشتوں کے فرائض",
-            "hi": "ईमान बिल्मलाइका के फ़राइज़",
-            "en": "Faith in the Duties of Angels"
-          },
-          "text": {
-            "ar": "لِلْمَلَائِكَةِ مَهَامُّ مَعْلُومَةٌ: جِبْرِيلُ لِلْوَحْيِ، مِيكَائِيلُ لِلْمَطَرِ، إِسْرَافِيلُ لِلنَّفْخِ، مَلَكُ الْمَوْتِ لِقَبْضِ الْأَرْوَاحِ، وَمَالِكٌ خَازِنُ النَّارِ، وَرِضْوَانُ خَازِنُ الْجَنَّةِ",
-            "ur": "فرشتوں کے معروف فرائض ہیں: جبرائیل علیہ السلام وحی لانے کے لیے، میکائیل علیہ السلام بارش کے لیے، اسرافیل علیہ السلام صور پھونکنے کے لیے، ملک الموت روحیں قبض کرنے کے لیے، مالک جہنم کا خازن ہے اور رضوان جنت کا خازن ہے۔",
-            "hi": "फ़रिश्तों के मा'रूफ़ फ़राइज़ हैं: जिब्राईल अलैहिस्सलाम वही लाने के लिए, मीकाईल अलैहिस्सलाम बारिश के लिए, इसराफ़ील अलैहिस्सलाम सूर फूँकने के लिए, मलकुल मौत रूहें क़ब्ज़ करने के लिए, मालिक जहन्नम का ख़ाज़िन है और रिज़वान जन्नत का ख़ाज़िन है।",
-            "en": "The angels have known duties: Jibril (Gabriel) for revelation, Mika'il (Michael) for rain, Israfil for blowing the Trumpet, the Angel of Death for taking souls, Malik as the keeper of Hell, and Ridwan as the keeper of Paradise."
-          },
-          "reference": {
-            "book": "صحيح البخاري / صحيح مسلم",
-            "chapter": "كتاب بدء الخلق / كتاب الإيمان",
-            "hadith_no": "3236 / 2668"
+          "key_points": {
+            "ur": [
+              "اللہ کے ناموں پر ایمان",
+              "اللہ کی صفات پر ایمان",
+              "اللہ کے تمام احکام کو قبول کرنا"
+            ],
+            "en": [
+              "Belief in Allah's Names",
+              "Belief in Allah's Attributes",
+              "Acceptance of all Allah's commandments"
+            ]
           }
         }
       ]
     }
-  ]
+  ],
+  "metadata": {
+    "total_chapters": 2,
+    "total_duas": 8,
+    "categories": {
+      "kalmas": 6,
+      "iman": 2
+    },
+    "languages_available": ["ur", "hi", "en", "ar"],
+    "last_updated": "2026-01-07"
+  }
 }
