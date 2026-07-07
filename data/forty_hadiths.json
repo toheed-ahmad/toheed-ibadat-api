@@ -1,0 +1,902 @@
+{
+  "title": "چالیس احادیث| Forty Hadiths",
+  "language": "ur",
+  "chapters": [
+    {
+      "id": 1,
+      "category": "hadith",
+      "chapter_id": 1,
+      "title": {
+        "ur": "باب ایمان و عقیدہ",
+        "hi": "ईमान और अक़ीदा",
+        "en": "Faith & Creed"
+      },
+      "duas": [
+        {
+          "id": 1,
+          "chapter_id": 1,
+          "title": {
+            "ur": "اعمال کا دارومدار نیتوں پر ہے",
+            "hi": "आमाल का दारोमदार नियतों पर है",
+            "en": "Actions are Judged by Intentions"
+          },
+          "text": {
+            "ar": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ",
+            "ur": "اعمال کا دارومدار نیتوں پر ہے۔",
+            "hi": "आमाल का दारोमदार नियतों पर है।",
+            "en": "Actions are judged by intentions."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب بدء الوحی",
+            "hadith_no": "1"
+          }
+        },
+        {
+          "id": 2,
+          "chapter_id": 1,
+          "title": {
+            "ur": "جہاں کہیں بھی ہو اللہ سے ڈرو",
+            "hi": "जहाँ कहीं भी हो अल्लाह से डरो",
+            "en": "Fear Allah Wherever You Are"
+          },
+          "text": {
+            "ar": "اِتَّقِ اللَّهَ حَيْثُمَا كُنْتََ",
+            "ur": "تم جہاں کہیں بھی ہو اللہ سے ڈرو۔",
+            "hi": "तुम जहाँ कहीं भी हो अल्लाह से डरो।",
+            "en": "Fear Allah wherever you are."
+          },
+          "reference": {
+            "book": "سنن الترمذی",
+            "chapter": "کتاب الزہد",
+            "hadith_no": "1987"
+          }
+        },
+        {
+          "id": 3,
+          "chapter_id": 1,
+          "title": {
+            "ur": "دنیا مومن کے لیے قید خانہ اور کافر کے لیے جنت",
+            "hi": "दुनिया मोमिन के लिए क़ैदख़ाना और काफ़िर के लिए जन्नत",
+            "en": "The World is a Prison for the Believer and Paradise for the Disbeliever"
+          },
+          "text": {
+            "ar": "الدُّنْيَا سِجْنُ الْمُؤْمِنِ وَجَنَّةُ الْكَافِرِ",
+            "ur": "دنیا مومن کے لیے قید خانہ اور کافر کے لیے جنت ہے۔",
+            "hi": "दुनिया मोमिन के लिए क़ैदख़ाना और काफ़िर के लिए जन्नत है।",
+            "en": "The world is a prison for the believer and paradise for the disbeliever."
+          },
+          "reference": {
+            "book": "صحیح مسلم",
+            "chapter": "کتاب الزہد والرقائق",
+            "hadith_no": "2956"
+          }
+        },
+        {
+          "id": 4,
+          "chapter_id": 1,
+          "title": {
+            "ur": "ظلم قیامت کے دن اندھیروں کی صورت میں ہوگا",
+            "hi": "ज़ुल्म क़यामत के दिन अंधेरों की सूरत में होगा",
+            "en": "Oppression Will Be Darkness on the Day of Judgment"
+          },
+          "text": {
+            "ar": "الظُّلْمُ ظُلُمَاتٌ يَوْمَ الْقِيَامَةِ",
+            "ur": "ظلم قیامت کے دن اندھیروں کی صورت میں ہوگا۔",
+            "hi": "ज़ुल्म क़यामत के दिन अंधेरों की सूरत में होगा।",
+            "en": "Oppression will be darkness on the Day of Judgment."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب المظالم",
+            "hadith_no": "2447"
+          }
+        },
+        {
+          "id": 5,
+          "chapter_id": 1,
+          "title": {
+            "ur": "ایک درود پر دس رحمتیں",
+            "hi": "एक दरूद पर दस रहमतें",
+            "en": "Ten Blessings for One Salutation"
+          },
+          "text": {
+            "ar": "مَنْ صَلَّى عَلَيَّ وَاحِدَةً صَلَّى اللَّهُ عَلَيْهِ عَشْرًا",
+            "ur": "جس نے مجھ پر ایک بار درود بھیجا، اللہ اس پر دس رحمتیں نازل فرمائے گا۔",
+            "hi": "जिस ने मुझ पर एक बार दरूद भेजा, अल्लाह उस पर दस रहमतें नाज़िल फरमाएगा।",
+            "en": "Whoever sends one salutation upon me, Allah will send ten blessings upon him."
+          },
+          "reference": {
+            "book": "صحیح مسلم",
+            "chapter": "کتاب الصلاة",
+            "hadith_no": "408"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "hadith",
+      "chapter_id": 2,
+      "title": {
+        "ur": "باب عبادات و طہارت",
+        "hi": "इबादात और तहारत",
+        "en": "Worship & Purification"
+      },
+      "duas": [
+        {
+          "id": 6,
+          "chapter_id": 2,
+          "title": {
+            "ur": "نماز مومن کا نور ہے",
+            "hi": "नमाज़ मोमिन का नूर है",
+            "en": "Prayer is the Light of the Believer"
+          },
+          "text": {
+            "ar": "الصَّلَاةُ نُورُ الْمُؤْمِنِ",
+            "ur": "نماز مومن کا نور ہے۔",
+            "hi": "नमाज़ मोमिन का नूर है।",
+            "en": "Prayer is the light of the believer."
+          },
+          "reference": {
+            "book": "مسند احمد",
+            "chapter": "مسند عبداللہ بن عمر",
+            "hadith_no": "6566"
+          }
+        },
+        {
+          "id": 7,
+          "chapter_id": 2,
+          "title": {
+            "ur": "پاکیزگی ایمان کا حصہ ہے",
+            "hi": "पाकीज़गी ईमान का हिस्सा है",
+            "en": "Purification is Half of Faith"
+          },
+          "text": {
+            "ar": "اَلطُّهُورُ شَطْرُ الْإِيمَانِ",
+            "ur": "پاکیزگی ایمان کا حصہ ہے۔",
+            "hi": "पाकीज़गी ईमान का हिस्सा है।",
+            "en": "Purification is half of faith."
+          },
+          "reference": {
+            "book": "صحیح مسلم",
+            "chapter": "کتاب الطہارۃ",
+            "hadith_no": "223"
+          }
+        },
+        {
+          "id": 8,
+          "chapter_id": 2,
+          "title": {
+            "ur": "دعا عبادت کا مغز ہے",
+            "hi": "दुआ इबादत का मग़्ज़ है",
+            "en": "Dua is the Essence of Worship"
+          },
+          "text": {
+            "ar": "اَلدُّعَاءُ مُخُّ الْعِبَادَةِ",
+            "ur": "دعا عبادت کا مغز ہے۔",
+            "hi": "दुआ इबादत का मग़्ज़ है।",
+            "en": "Dua is the essence of worship."
+          },
+          "reference": {
+            "book": "سنن الترمذی",
+            "chapter": "کتاب الدعوات",
+            "hadith_no": "3371"
+          }
+        },
+        {
+          "id": 9,
+          "chapter_id": 2,
+          "title": {
+            "ur": "مسواک منہ کی صفائی اور رب کی رضا کا ذریعہ",
+            "hi": "मिस्वाक मुँह की सफ़ाई और रब की रज़ा का ज़रीया",
+            "en": "Miswak Purifies the Mouth and Pleases the Lord"
+          },
+          "text": {
+            "ar": "السِّوَاكُ مَطْهَرَةٌ لِلْفَمِ مَرْضَاةٌ لِلرَّبِّ",
+            "ur": "مسواک منہ کی صفائی اور رب کی رضا کا ذریعہ ہے۔",
+            "hi": "मिस्वाक मुँह की सफ़ाई और रब की रज़ा का ज़रीया है।",
+            "en": "The miswak purifies the mouth and is pleasing to the Lord."
+          },
+          "reference": {
+            "book": "سنن النسائی",
+            "chapter": "کتاب الطہارۃ",
+            "hadith_no": "5"
+          }
+        },
+        {
+          "id": 10,
+          "chapter_id": 2,
+          "title": {
+            "ur": "صبح کی نماز اللہ کی پناہ میں",
+            "hi": "सुबह की नमाज़ अल्लाह की पनाह में",
+            "en": "Fajr Prayer is Under Allah's Protection"
+          },
+          "text": {
+            "ar": "مَنْ صَلَّى الصُّبْحَ فَهُوَ فِي ذِمَّةِ اللَّهِ",
+            "ur": "جس نے صبح کی نماز پڑھی وہ اللہ کی پناہ میں آگیا۔",
+            "hi": "जिस ने सुबह की नमाज़ पढ़ी वह अल्लाह की पनाह में आ गया।",
+            "en": "Whoever prays Fajr is under the protection of Allah."
+          },
+          "reference": {
+            "book": "صحیح مسلم",
+            "chapter": "کتاب المساجد",
+            "hadith_no": "657"
+          }
+        },
+        {
+          "id": 11,
+          "chapter_id": 2,
+          "title": {
+            "ur": "آپس میں سلام کو پھیلاؤ",
+            "hi": "आपस में सलाम को फैलाओ",
+            "en": "Spread Peace Among Yourselves"
+          },
+          "text": {
+            "ar": "أَفْشُوا السَّلَامَ بَيْنَكُمْ",
+            "ur": "آپس میں سلام کو پھیلاؤ۔",
+            "hi": "आपस में सलाम को फैलाओ।",
+            "en": "Spread peace among yourselves."
+          },
+          "reference": {
+            "book": "صحیح مسلم",
+            "chapter": "کتاب الایمان",
+            "hadith_no": "54"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "hadith",
+      "chapter_id": 3,
+      "title": {
+        "ur": "باب قرآن و علم",
+        "hi": "क़ुरआन और इल्म",
+        "en": "Quran & Knowledge"
+      },
+      "duas": [
+        {
+          "id": 12,
+          "chapter_id": 3,
+          "title": {
+            "ur": "بہترین وہ ہے جو قرآن سیکھے اور سکھائے",
+            "hi": "बेहतरीन वह है जो क़ुरआन सीखे और सिखाए",
+            "en": "The Best Among You is He Who Learns and Teaches the Quran"
+          },
+          "text": {
+            "ar": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+            "ur": "تم میں سے بہترین وہ ہے جو قرآن سیکھے اور سکھائے۔",
+            "hi": "तुम में से बेहतरीन वह है जो क़ुरआन सीखे और सिखाए।",
+            "en": "The best among you is the one who learns the Quran and teaches it."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب فضائل القرآن",
+            "hadith_no": "5027"
+          }
+        },
+        {
+          "id": 13,
+          "chapter_id": 3,
+          "title": {
+            "ur": "علم حاصل کرنا ہر مسلمان پر فرض ہے",
+            "hi": "इल्म हासिल करना हर मुसलमान पर फ़र्ज़ है",
+            "en": "Seeking Knowledge is Obligatory Upon Every Muslim"
+          },
+          "text": {
+            "ar": "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ",
+            "ur": "علم حاصل کرنا ہر مسلمان پر فرض ہے۔",
+            "hi": "इल्म हासिल करना हर मुसलमान पर फ़र्ज़ है।",
+            "en": "Seeking knowledge is obligatory upon every Muslim."
+          },
+          "reference": {
+            "book": "سنن ابن ماجہ",
+            "chapter": "کتاب المقدمۃ",
+            "hadith_no": "224"
+          }
+        },
+        {
+          "id": 14,
+          "chapter_id": 3,
+          "title": {
+            "ur": "علم کی تلاش میں جنت کا راستہ",
+            "hi": "इल्म की तलाश में जन्नत का रास्ता",
+            "en": "The Path to Paradise for the Seeker of Knowledge"
+          },
+          "text": {
+            "ar": "مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ",
+            "ur": "جو شخص علم کی تلاش میں کسی راستے پر چلے، اللہ اس کے لیے جنت کا راستہ آسان کر دیتا ہے۔",
+            "hi": "जो शख्स इल्म की तलाश में किसी रास्ते पर चले, अल्लाह उसके लिए जन्नत का रास्ता आसान कर देता है।",
+            "en": "Whoever travels a path in search of knowledge, Allah makes easy for him a path to Paradise."
+          },
+          "reference": {
+            "book": "صحیح مسلم",
+            "chapter": "کتاب الذکر والدعاء",
+            "hadith_no": "2699"
+          }
+        },
+        {
+          "id": 15,
+          "chapter_id": 3,
+          "title": {
+            "ur": "میری طرف سے پہنچا دو اگرچہ ایک آیت",
+            "hi": "मेरी तरफ से पहुँचा दो अगरचे एक आयत",
+            "en": "Convey From Me Even One Verse"
+          },
+          "text": {
+            "ar": "بَلِّغُوا عَنِّي وَلَوْ آيَةً",
+            "ur": "میری طرف سے پہنچا دو اگرچہ ایک ہی آیت ہو۔",
+            "hi": "मेरी तरफ से पहुँचा दो अगरचे एक ही आयत हो।",
+            "en": "Convey from me even one verse."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب احادیث الانبیاء",
+            "hadith_no": "3461"
+          }
+        },
+        {
+          "id": 16,
+          "chapter_id": 3,
+          "title": {
+            "ur": "ایک حرف پڑھنے پر ایک نیکی",
+            "hi": "एक हर्फ़ पढ़ने पर एक नेकी",
+            "en": "One Letter Recited Earns One Reward"
+          },
+          "text": {
+            "ar": "مَنْ قَرَأَ حَرْفًا مِنْ كِتَابِ اللَّهِ فَلَهُ بِهِ حَسَنَةٌ",
+            "ur": "جس نے اللہ کی کتاب کا ایک حرف پڑھا، اس کے لیے ایک نیکی ہے۔",
+            "hi": "जिस ने अल्लाह की किताब का एक हर्फ़ पढ़ा, उसके लिए एक नेकी है।",
+            "en": "Whoever recites a letter from the Book of Allah earns a good deed."
+          },
+          "reference": {
+            "book": "سنن الترمذی",
+            "chapter": "کتاب فضائل القرآن",
+            "hadith_no": "2910"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "hadith",
+      "chapter_id": 4,
+      "title": {
+        "ur": "باب اخلاقِ فردی",
+        "hi": "अख़लाक़-ए-फ़र्दी",
+        "en": "Personal Morals"
+      },
+      "duas": [
+        {
+          "id": 17,
+          "chapter_id": 4,
+          "title": {
+            "ur": "حیا ایمان کا حصہ ہے",
+            "hi": "हया ईमान का हिस्सा है",
+            "en": "Modesty is Part of Faith"
+          },
+          "text": {
+            "ar": "الْحَيَاءُ مِنَ الْإِيمَانِ",
+            "ur": "حیا ایمان کا حصہ ہے۔",
+            "hi": "हया ईमान का हिस्सा है।",
+            "en": "Modesty is part of faith."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب الایمان",
+            "hadith_no": "24"
+          }
+        },
+        {
+          "id": 18,
+          "chapter_id": 4,
+          "title": {
+            "ur": "غصہ نہ کرو",
+            "hi": "ग़ुस्सा न करो",
+            "en": "Do Not Get Angry"
+          },
+          "text": {
+            "ar": "لَا تَغْضَبْ",
+            "ur": "غصہ نہ کرو۔",
+            "hi": "ग़ुस्सा न करो।",
+            "en": "Do not get angry."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب الادب",
+            "hadith_no": "6116"
+          }
+        },
+        {
+          "id": 19,
+          "chapter_id": 4,
+          "title": {
+            "ur": "جو خاموش رہا اس نے نجات پائی",
+            "hi": "जो ख़ामोश रहा उस ने नजात पाई",
+            "en": "Silence Leads to Salvation"
+          },
+          "text": {
+            "ar": "مَنْ صَمَتَ نَجَا",
+            "ur": "جو خاموش رہا اس نے نجات پائی۔",
+            "hi": "जो ख़ामोश रहा उस ने नजात पाई।",
+            "en": "Whoever remains silent is saved."
+          },
+          "reference": {
+            "book": "سنن الترمذی",
+            "chapter": "کتاب الزہد",
+            "hadith_no": "2501"
+          }
+        },
+        {
+          "id": 20,
+          "chapter_id": 4,
+          "title": {
+            "ur": "اللہ کو پسندیدہ عمل ہمیشہ کیا جانے والا عمل",
+            "hi": "अल्लाह को पसंदीदा अमल हमेशा किया जाने वाला अमल",
+            "en": "The Most Beloved Deed to Allah is the Most Constant"
+          },
+          "text": {
+            "ar": "أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ",
+            "ur": "اللہ کو سب سے زیادہ وہ عمل پسند ہے جو ہمیشہ کیا جائے چاہے تھوڑا ہو۔",
+            "hi": "अल्लाह को सब से ज़्यादा वह अमल पसंद है जो हमेशा किया जाए चाहे थोड़ा हो।",
+            "en": "The most beloved deed to Allah is the one that is most constant, even if it is little."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب الرقاق",
+            "hadith_no": "6465"
+          }
+        },
+        {
+          "id": 21,
+          "chapter_id": 4,
+          "title": {
+            "ur": "سچ نجات دیتا ہے اور جھوٹ ہلاک کرتا ہے",
+            "hi": "सच नजात देता है और झूठ हलाक करता है",
+            "en": "Truth Leads to Salvation, Falsehood Leads to Destruction"
+          },
+          "text": {
+            "ar": "الصِّدْقُ يُنْجِي وَالْكَذِبُ يُهْلِكُ",
+            "ur": "سچ نجات دیتا ہے اور جھوٹ ہلاک کر دیتا ہے۔",
+            "hi": "सच नजात देता है और झूठ हलाक कर देता है।",
+            "en": "Truth leads to salvation and falsehood leads to destruction."
+          },
+          "reference": {
+            "book": "مشکوٰۃ المصابیح",
+            "chapter": "کتاب الادب",
+            "hadith_no": "4972"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "hadith",
+      "chapter_id": 5,
+      "title": {
+        "ur": "باب اخلاقِ معاشرت",
+        "hi": "अख़लाक़-ए-मुआशरत",
+        "en": "Social Morals"
+      },
+      "duas": [
+        {
+          "id": 22,
+          "chapter_id": 5,
+          "title": {
+            "ur": "مسلمان وہ ہے جس کی زبان اور ہاتھ سے دوسرے مسلمان محفوظ رہیں",
+            "hi": "मुसलमान वह है जिस की ज़बान और हाथ से दूसरे मुसलमान महफ़ूज़ रहें",
+            "en": "A Muslim is One From Whose Tongue and Hand Muslims are Safe"
+          },
+          "text": {
+            "ar": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
+            "ur": "مسلمان وہ ہے جس کی زبان اور ہاتھ سے دوسرے مسلمان محفوظ رہیں۔",
+            "hi": "मुसलमान वह है जिस की ज़बान और हाथ से दूसरे मुसलमान महफ़ूज़ रहें।",
+            "en": "A Muslim is one from whose tongue and hand other Muslims are safe."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب الایمان",
+            "hadith_no": "10"
+          }
+        },
+        {
+          "id": 23,
+          "chapter_id": 5,
+          "title": {
+            "ur": "جو رحم نہیں کرتا اس پر رحم نہیں کیا جاتا",
+            "hi": "जो रहम नहीं करता उस पर रहम नहीं किया जाता",
+            "en": "He Who Does Not Show Mercy Will Not Receive Mercy"
+          },
+          "text": {
+            "ar": "مَنْ لَا يَرْحَمْ لَا يُرْحَمْ",
+            "ur": "جو رحم نہیں کرتا، اس پر رحم نہیں کیا جاتا۔",
+            "hi": "जो रहम नहीं करता, उस पर रहम नहीं किया जाता।",
+            "en": "He who does not show mercy will not receive mercy."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب الادب",
+            "hadith_no": "6013"
+          }
+        },
+        {
+          "id": 24,
+          "chapter_id": 5,
+          "title": {
+            "ur": "اپنے بھائی کے سامنے مسکرانا صدقہ ہے",
+            "hi": "अपने भाई के सामने मुस्कुराना सदक़ा है",
+            "en": "Smiling at Your Brother is Charity"
+          },
+          "text": {
+            "ar": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ صَدَقَةٌ",
+            "ur": "اپنے بھائی کے سامنے تمہارا مسکرانا صدقہ ہے۔",
+            "hi": "अपने भाई के सामने तुम्हारा मुस्कुराना सदक़ा है।",
+            "en": "Your smile in the face of your brother is charity."
+          },
+          "reference": {
+            "book": "سنن الترمذی",
+            "chapter": "کتاب البر والصلۃ",
+            "hadith_no": "1956"
+          }
+        },
+        {
+          "id": 25,
+          "chapter_id": 5,
+          "title": {
+            "ur": "پاکیزہ بات کرنا صدقہ ہے",
+            "hi": "पाकीज़ा बात करना सदक़ा है",
+            "en": "A Kind Word is Charity"
+          },
+          "text": {
+            "ar": "اَلْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ",
+            "ur": "پاکیزہ بات کرنا صدقہ ہے۔",
+            "hi": "पाकीज़ा बात करना सदक़ा है।",
+            "en": "A kind word is charity."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب الادب",
+            "hadith_no": "6026"
+          }
+        },
+        {
+          "id": 26,
+          "chapter_id": 5,
+          "title": {
+            "ur": "اپنے بھائی کے لیے وہی پسند کرو جو اپنے لیے کرتے ہو",
+            "hi": "अपने भाई के लिए वही पसंद करो जो अपने लिए करते हो",
+            "en": "Love for Your Brother What You Love for Yourself"
+          },
+          "text": {
+            "ar": "لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
+            "ur": "تم میں سے کوئی مومن نہیں ہو سکتا جب تک وہ اپنے بھائی کے لیے وہی پسند نہ کرے جو اپنے لیے کرتا ہے۔",
+            "hi": "तुम में से कोई मोमिन नहीं हो सकता जब तक वह अपने भाई के लिए वही पसंद न करे जो अपने लिए करता है।",
+            "en": "None of you truly believes until he loves for his brother what he loves for himself."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب الایمان",
+            "hadith_no": "13"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "hadith",
+      "chapter_id": 6,
+      "title": {
+        "ur": "باب حقوق و معاملات",
+        "hi": "हुक़ूक़ और मुआमलात",
+        "en": "Rights & Transactions"
+      },
+      "duas": [
+        {
+          "id": 27,
+          "chapter_id": 6,
+          "title": {
+            "ur": "دین خیر خواہی کا نام ہے",
+            "hi": "दीन ख़ैरख़्वाही का नाम है",
+            "en": "Religion is Sincerity"
+          },
+          "text": {
+            "ar": "الدِّينُ النَّصِيحَةُ",
+            "ur": "دین خیر خواہی کا نام ہے۔",
+            "hi": "दीन ख़ैरख़्वाही का नाम है।",
+            "en": "Religion is sincerity."
+          },
+          "reference": {
+            "book": "صحیح مسلم",
+            "chapter": "کتاب الایمان",
+            "hadith_no": "55"
+          }
+        },
+        {
+          "id": 28,
+          "chapter_id": 6,
+          "title": {
+            "ur": "جس نے دھوکہ دیا وہ ہم میں سے نہیں",
+            "hi": "जिस ने धोखा दिया वह हम में से नहीं",
+            "en": "He Who Deceives is Not From Us"
+          },
+          "text": {
+            "ar": "مَنْ غَشَّ فَلَيْسَ مِنَّا",
+            "ur": "جس نے دھوکہ دیا وہ ہم میں سے نہیں۔",
+            "hi": "जिस ने धोखा दिया वह हम में से नहीं।",
+            "en": "He who deceives is not from us."
+          },
+          "reference": {
+            "book": "صحیح مسلم",
+            "chapter": "کتاب الایمان",
+            "hadith_no": "101"
+          }
+        },
+        {
+          "id": 29,
+          "chapter_id": 6,
+          "title": {
+            "ur": "منافق کی تین نشانیاں",
+            "hi": "मुनाफ़िक़ की तीन निशानियाँ",
+            "en": "Three Signs of a Hypocrite"
+          },
+          "text": {
+            "ar": "آيَةُ الْمُنَافِقِ ثَلَاثٌ: إِذَا حَدَّثَ كَذَبَ، وَإِذَا وَعَدَ أَخْلَفَ، وَإِذَا اؤْتُمِنَ خَانَ",
+            "ur": "منافق کی تین نشانیاں ہیں: جب بات کرے تو جھوٹ بولے، جب وعدہ کرے تو خلاف ورزی کرے اور جب امانت دی جائے تو خیانت کرے۔",
+            "hi": "मुनाफ़िक़ की तीन निशानियाँ हैं: जब बात करे तो झूठ बोले, जब वादा करे तो ख़िलाफ़ वर्ज़ी करे और जब अमानत दी जाए तो ख़यानत करे।",
+            "en": "The signs of a hypocrite are three: when he speaks he lies, when he promises he breaks it, and when he is entrusted he betrays."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب الایمان",
+            "hadith_no": "33"
+          }
+        },
+        {
+          "id": 30,
+          "chapter_id": 6,
+          "title": {
+            "ur": "پردہ پوشی کرنے والے کی پردہ پوشی",
+            "hi": "पर्दा पोशी करने वाले की पर्दा पोशी",
+            "en": "Allah Conceals the One Who Conceals Others"
+          },
+          "text": {
+            "ar": "مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ يَوْمَ الْقِيَامَةِ",
+            "ur": "جس نے کسی مسلمان کی پردہ پوشی کی، اللہ قیامت کے دن اس کی پردہ پوشی فرمائے گا۔",
+            "hi": "जिस ने किसी मुसलमान की पर्दा पोशी की, अल्लाह क़यामत के दिन उस की पर्दा पोशी फरमाएगा।",
+            "en": "Whoever conceals the faults of a Muslim, Allah will conceal his faults on the Day of Judgment."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب المظالم",
+            "hadith_no": "2442"
+          }
+        },
+        {
+          "id": 31,
+          "chapter_id": 6,
+          "title": {
+            "ur": "اوپر والا ہاتھ بہتر ہے",
+            "hi": "ऊपर वाला हाथ बेहतर है",
+            "en": "The Upper Hand is Better"
+          },
+          "text": {
+            "ar": "الْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى",
+            "ur": "اوپر والا (دینے والا) ہاتھ نیچے والے (لینے والے) ہاتھ سے بہتر ہے۔",
+            "hi": "ऊपर वाला (देने वाला) हाथ नीचे वाले (लने वाले) हाथ से बेहतर है।",
+            "en": "The upper hand (giving) is better than the lower hand (receiving)."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب الزکوٰۃ",
+            "hadith_no": "1429"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "hadith",
+      "chapter_id": 7,
+      "title": {
+        "ur": "باب خاندان، سماج اور ترغیب",
+        "hi": "ख़ानदान, समाज और तरग़ीब",
+        "en": "Family, Society & Encouragement"
+      },
+      "duas": [
+        {
+          "id": 32,
+          "chapter_id": 7,
+          "title": {
+            "ur": "جنت ماؤں کے قدموں تلے ہے",
+            "hi": "जन्नत माओं के क़दमों तले है",
+            "en": "Paradise Lies Under the Feet of Mothers"
+          },
+          "text": {
+            "ar": "الْجَنَّةُ تَحْتَ أَقْدَامِ الْأُمَّهَاتِ",
+            "ur": "جنت ماؤں کے قدموں تلے ہے۔",
+            "hi": "जन्नत माओं के क़दमों तले है।",
+            "en": "Paradise lies under the feet of mothers."
+          },
+          "reference": {
+            "book": "سنن النسائی",
+            "chapter": "کتاب الجہاد",
+            "hadith_no": "3104"
+          }
+        },
+        {
+          "id": 33,
+          "chapter_id": 7,
+          "title": {
+            "ur": "رشتہ داری توڑنے والا جنت میں نہیں جائے گا",
+            "hi": "रिश्तेदारी तोड़ने वाला जन्नत में नहीं जाएगा",
+            "en": "The Severer of Kinship Will Not Enter Paradise"
+          },
+          "text": {
+            "ar": "لَا يَدْخُلُ الْجَنَّةَ قَاطِعٌ",
+            "ur": "رشتہ داری توڑنے والا جنت میں نہیں جائے گا۔",
+            "hi": "रिश्तेदारी तोड़ने वाला जन्नत में नहीं जाएगा।",
+            "en": "The severer of kinship will not enter Paradise."
+          },
+          "reference": {
+            "book": "صحیح مسلم",
+            "chapter": "کتاب البر والصلۃ",
+            "hadith_no": "2556"
+          }
+        },
+        {
+          "id": 34,
+          "chapter_id": 7,
+          "title": {
+            "ur": "گھر سے پہلے پڑوسی کو دیکھو",
+            "hi": "घर से पहले पड़ोसी को देखो",
+            "en": "Consider the Neighbor Before the House"
+          },
+          "text": {
+            "ar": "اَلْجَارُ قَبْلَ الدَّارِ",
+            "ur": "گھر سے پہلے پڑوسی کو دیکھو۔",
+            "hi": "घर से पहले पड़ोसी को देखो।",
+            "en": "Consider the neighbor before the house."
+          },
+          "reference": {
+            "book": "المعجم الکبیر للطبرانی",
+            "chapter": "من اسمہ عبداللہ",
+            "hadith_no": "10267"
+          }
+        },
+        {
+          "id": 35,
+          "chapter_id": 7,
+          "title": {
+            "ur": "ہر نیکی کا کام صدقہ ہے",
+            "hi": "हर नेकी का काम सदक़ा है",
+            "en": "Every Good Deed is Charity"
+          },
+          "text": {
+            "ar": "كُلُّ مَعْرُوفٍ صَدَقَةٌ",
+            "ur": "ہر نیکی کا کام صدقہ ہے۔",
+            "hi": "हर नेकी का काम सदक़ा है।",
+            "en": "Every good deed is charity."
+          },
+          "reference": {
+            "book": "صحیح البخاری",
+            "chapter": "کتاب الادب",
+            "hadith_no": "6021"
+          }
+        },
+        {
+          "id": 36,
+          "chapter_id": 7,
+          "title": {
+            "ur": "نیکی کی طرف رہنمائی کرنے والا نیکی کرنے والے کی طرح ہے",
+            "hi": "नेकी की तरफ रहनुमाई करने वाला नेकी करने वाले की तरह है",
+            "en": "The Guide to Good is Like the Doer of Good"
+          },
+          "text": {
+            "ar": "الدَّالُ عَلَى الْخَيْرِ كَفَاعِلِهِ",
+            "ur": "نیکی کی طرف رہنمائی کرنے والا نیکی کرنے والے کی طرح ہے۔",
+            "hi": "नेकी की तरफ रहनुमाई करने वाला नेकी करने वाले की तरह है।",
+            "en": "The one who guides to good is like the doer of good."
+          },
+          "reference": {
+            "book": "سنن الترمذی",
+            "chapter": "کتاب العلم",
+            "hadith_no": "2670"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "hadith",
+      "chapter_id": 8,
+      "title": {
+        "ur": "باب تنبیہ و اصلاح",
+        "hi": "तनबीह और इस्लाह",
+        "en": "Warning & Reform"
+      },
+      "duas": [
+        {
+          "id": 37,
+          "chapter_id": 8,
+          "title": {
+            "ur": "شراب تمام برائیوں کی جڑ ہے",
+            "hi": "शराब तमाम बुराइयों की जड़ है",
+            "en": "Alcohol is the Mother of All Evils"
+          },
+          "text": {
+            "ar": "الْخَمْرُ أُمُّ الْخَبَائِثِ",
+            "ur": "شراب تمام برائیوں کی جڑ ہے۔",
+            "hi": "शराब तमाम बुराइयों की जड़ है।",
+            "en": "Alcohol is the mother of all evils."
+          },
+          "reference": {
+            "book": "سنن النسائی",
+            "chapter": "کتاب الاشربۃ",
+            "hadith_no": "5562"
+          }
+        },
+        {
+          "id": 38,
+          "chapter_id": 8,
+          "title": {
+            "ur": "حسد سے بچو، یہ نیکیوں کو کھا جاتا ہے",
+            "hi": "हसद से बचो, यह नेकियों को खा जाता है",
+            "en": "Beware of Envy, It Consumes Good Deeds"
+          },
+          "text": {
+            "ar": "إِيَّاكُمْ وَالْحَسَدَ، فَإِنَّ الْحَسَدَ يَأْكُلُ الْحَسَنَاتِ كَمَا تَأْكُلُ النَّارُ الْحَطَبَ",
+            "ur": "حسد سے بچو، کیونکہ حسد نیکیوں کو اس طرح کھا جاتا ہے جیسے آگ لکڑی کو۔",
+            "hi": "हसद से बचो, क्योंकि हसद नेकियों को इस तरह खा जाता है जैसे आग लकड़ी को।",
+            "en": "Beware of envy, for envy consumes good deeds just as fire consumes wood."
+          },
+          "reference": {
+            "book": "سنن ابو داؤد",
+            "chapter": "کتاب الزہد",
+            "hadith_no": "4903"
+          }
+        },
+        {
+          "id": 39,
+          "chapter_id": 8,
+          "title": {
+            "ur": "برکت تمہارے بڑوں کے ساتھ ہے",
+            "hi": "बरकत तुम्हारे बड़ों के साथ है",
+            "en": "Blessings are With Your Elders"
+          },
+          "text": {
+            "ar": "الْبَرَكَةُ مَعَ أَكَابِرِكُمْ",
+            "ur": "برکت تمہارے بڑوں کے ساتھ ہے۔",
+            "hi": "बरकत तुम्हारे बड़ों के साथ है।",
+            "en": "Blessings are with your elders."
+          },
+          "reference": {
+            "book": "صحیح ابن حبان",
+            "chapter": "کتاب البر والاحسان",
+            "hadith_no": "552"
+          }
+        },
+        {
+          "id": 40,
+          "chapter_id": 8,
+          "title": {
+            "ur": "مسجد بنانے والے کے لیے جنت میں گھر",
+            "hi": "मस्जिद बनाने वाले के लिए जन्नत में घर",
+            "en": "A House in Paradise for the One Who Builds a Mosque"
+          },
+          "text": {
+            "ar": "مَنْ بَنَى لِلَّهِ مَسْجِدًا بَنَى اللَّهُ لَهُ بَيْتًا فِي الْجَنَّةِ",
+            "ur": "جس نے اللہ کے لیے مسجد بنائی، اللہ اس کے لیے جنت میں گھر بنائے گا۔",
+            "hi": "जिस ने अल्लाह के लिए मस्जिद बनाई, अल्लाह उस के लिए जन्नत में घर बनाएगा।",
+            "en": "Whoever builds a mosque for Allah, Allah will build for him a house in Paradise."
+          },
+          "reference": {
+            "book": "صحیح مسلم",
+            "chapter": "کتاب المساجد",
+            "hadith_no": "533"
+          }
+        }
+      ]
+    }
+  ]
+}

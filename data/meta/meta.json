@@ -21,6 +21,14 @@
       "file": "masnoon_duain.json"
     },
     {
+      "id": "hadiths",
+      "title": {
+        "ur": "چالیس احادیث ",
+        "en": "Forty Hadiths"
+      },
+      "file": "forty_hadiths.json"
+    },
+    {
       "id": "kalma_iman",
       "title": {
         "ur": "کلماتِ اسلام اور عقائدِ ایمان",
