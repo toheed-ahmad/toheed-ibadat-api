@@ -7,82 +7,92 @@
     {
       "id": "durood",
       "title": {
-        "ur": "فضائل درود شریف",
-        "en": "Virtues of Durood Sharif"
+        "ur": "درود شریف",
+        "en": "Durood"
       },
-      "file": "durood_sharif.json"
+      "file": "durood_sharif.json",
+      "icon": "📿"
     },
     {
       "id": "dua",
       "title": {
-        "ur": "مسنون دعائیں",
-        "en": "Masnoon Duain"
+        "ur": "دعائیں",
+        "en": "Duas"
       },
-      "file": "masnoon_duain.json"
+      "file": "masnoon_duain.json",
+      "icon": "🤲"
     },
     {
       "id": "hadiths",
       "title": {
-        "ur": "چالیس احادیث ",
-        "en": "Forty Hadiths"
+        "ur": "احادیث",
+        "en": "Hadiths"
       },
-      "file": "forty_hadiths.json"
+      "file": "forty_hadiths.json",
+      "icon": "📖"
     },
     {
       "id": "kalma_iman",
       "title": {
-        "ur": "کلماتِ اسلام اور عقائدِ ایمان",
-        "en": "Kalmas & Articles of Faith"
+        "ur": "کلمات",
+        "en": "Kalmas"
       },
-      "file": "kalma_iman.json"
+      "file": "kalma_iman.json",
+      "icon": "☪️"
     },
     {
       "id": "namaz",
       "title": {
         "ur": "نماز",
-        "en": "namaz"
+        "en": "Namaz"
       },
-      "file": "namaz.json"
+      "file": "namaz.json",
+      "icon": "🕌"
     },
     {
       "id": "khutbat",
       "title": {
-        "ur": "خطبات جمعہ وعیدین و نکاح",
-        "en": "Friday, Eid & Nikah Sermons"
+        "ur": "خطبات",
+        "en": "Khutbat"
       },
-      "file": "khutbat.json"
+      "file": "khutbat.json",
+      "icon": "🎙️"
     },
     {
       "id": "roza",
       "title": {
-        "ur": "روزہ کے احکام و فضائل",
-        "en": "Rules & Virtues of Fasting"
+        "ur": "روزہ",
+        "en": "Roza"
       },
-      "file": "roza.json"
+      "file": "roza.json",
+      "icon": "🌙"
     },
     {
       "id": "zakat",
       "title": {
-        "ur": "زکوٰۃ کے احکام و فضائل",
-        "en": "Rules & Virtues of Zakat"
+        "ur": "زکوٰۃ",
+        "en": "Zakat"
       },
-      "file": "zakat.json"
+      "file": "zakat.json",
+      "icon": "💰"
     },
-     {
+    {
       "id": "hajj",
       "title": {
-        "ur": "حج اور عمرہ",
-        "en": "Hajj & Umrah"
+        "ur": "حج و عمرہ",
+        "en": "Hajj"
       },
-      "file": "haj_umrah.json"
+      "file": "haj_umrah.json",
+      "icon": "🕋"
     },
     {
       "id": "qurbani",
       "title": {
-        "ur": "قربانی کے احکام و دعائیں",
-        "en": "Rules & Duas of Qurbani"
+        "ur": "قربانی",
+        "en": "Qurbani"
       },
-      "file": "qurbani.json"
+      "file": "qurbani.json",
+      "icon": "🐏"
     }
   ]
 }

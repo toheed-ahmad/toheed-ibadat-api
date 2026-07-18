@@ -7,7 +7,7 @@
       "category": "durood_virtues",
       "chapter_id": 1,
       "title": {
-        "ur": "باب درود شریف کا قرآنی حکم اور فضیلت",
+        "ur": " درود شریف کا قرآنی حکم اور فضیلت",
         "hi": "दुरूद शरीफ का क़ुरानी हुक्म और फ़ज़ीलत",
         "en": "Quranic Command & Virtues of Durood"
       },
@@ -30,6 +30,11 @@
             "book": "القرآن الكريم",
             "chapter": "سورة الأحزاب",
             "hadith_no": "آیت 56"
+          },
+          "benefits": {
+            "ur": "",
+            "hi": "",
+            "en": ""
           }
         },
         {
@@ -50,6 +55,11 @@
             "book": "صحيح مسلم",
             "chapter": "كتاب الصلاة",
             "hadith_no": "408"
+          },
+          "benefits": {
+            "ur": "",
+            "hi": "",
+            "en": ""
           }
         },
         {
@@ -70,6 +80,11 @@
             "book": "سنن الترمذي",
             "chapter": "كتاب الوتر",
             "hadith_no": "484"
+          },
+          "benefits": {
+            "ur": "",
+            "hi": "",
+            "en": ""
           }
         }
       ]
@@ -79,7 +94,7 @@
       "category": "durood_virtues",
       "chapter_id": 2,
       "title": {
-        "ur": "باب درود شریف اور دعاؤں کی قبولیت",
+        "ur": " درود شریف اور دعاؤں کی قبولیت",
         "hi": "दुरूद शरीफ और दुआओं की क़बूलियत",
         "en": "Durood and the Acceptance of Supplications"
       },
@@ -102,6 +117,11 @@
             "book": "سنن أبي داود",
             "chapter": "كتاب الصلاة",
             "hadith_no": "1481"
+          },
+          "benefits": {
+            "ur": "",
+            "hi": "",
+            "en": ""
           }
         },
         {
@@ -122,6 +142,11 @@
             "book": "سنن الترمذي",
             "chapter": "كتاب صفة القيامة والرقائق",
             "hadith_no": "2457"
+          },
+          "benefits": {
+            "ur": "",
+            "hi": "",
+            "en": ""
           }
         }
       ]
@@ -131,7 +156,7 @@
       "category": "durood_virtues",
       "chapter_id": 3,
       "title": {
-        "ur": "باب مسنون درود (درودِ ابراہیمی)",
+        "ur": " مسنون درود (درودِ ابراہیمی)",
         "hi": "मसनून दुरूद (दुरूद-ए-इब्राहीमी)",
         "en": "The Prescribed Durood (Durood-e-Ibrahimi)"
       },
@@ -154,6 +179,11 @@
             "book": "صحيح البخاري",
             "chapter": "كتاب أحاديث الأنبياء",
             "hadith_no": "3370"
+          },
+          "benefits": {
+            "ur": "",
+            "hi": "",
+            "en": ""
           }
         }
       ]
@@ -163,7 +193,7 @@
       "category": "durood_virtues",
       "chapter_id": 4,
       "title": {
-        "ur": "باب درود شریف نہ پڑھنے کی وعید",
+        "ur": " درود شریف نہ پڑھنے کی وعید",
         "hi": "दुरूद शरीफ न पढ़ने की वईद",
         "en": "Warnings for Not Sending Blessings"
       },
@@ -186,6 +216,11 @@
             "book": "سنن الترمذي",
             "chapter": "كتاب الدعوات",
             "hadith_no": "3546"
+          },
+          "benefits": {
+            "ur": "",
+            "hi": "",
+            "en": ""
           }
         }
       ]
