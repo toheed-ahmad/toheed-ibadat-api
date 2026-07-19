@@ -1,0 +1,44 @@
+<svg width="600" height="600" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+
+    <!-- OUTER BODY - Solid colors instead of gradients -->
+    <circle cx="250" cy="250" r="245" fill="#e6e6e6"/>
+    <circle cx="250" cy="250" r="230" fill="#999999"/>
+    <circle cx="250" cy="250" r="215" fill="#f0f0f0"/>
+
+    <!-- MARKINGS -->
+    <g transform="translate(250,250)">
+        <circle r="185" fill="none" stroke="#bbb" stroke-width="1.2" stroke-dasharray="2,3"/>
+        <rect x="-1" y="-205" width="2" height="18" fill="#222" transform="rotate(0)"/>
+        <rect x="-1" y="-205" width="2" height="18" fill="#222" transform="rotate(90)"/>
+        <rect x="-1" y="-205" width="2" height="18" fill="#222" transform="rotate(180)"/>
+        <rect x="-1" y="-205" width="2" height="18" fill="#222" transform="rotate(270)"/>
+    </g>
+
+    <!-- LETTERS -->
+    <text x="250" y="82" text-anchor="middle" font-size="46" font-weight="bold" fill="#cc0000">N</text>
+    <text x="418" y="265" text-anchor="middle" font-size="38" font-weight="bold" fill="#333">E</text>
+    <text x="250" y="452" text-anchor="middle" font-size="38" font-weight="bold" fill="#333">S</text>
+    <text x="82" y="265" text-anchor="middle" font-size="38" font-weight="bold" fill="#333">W</text>
+
+    <!-- NEEDLE - Animation removed, solid colors -->
+    <g>
+        <!-- Red needle (North) -->
+        <path d="M250 60 L275 250 L250 240 Z" fill="#b30000"/>
+        <path d="M250 60 L225 250 L250 240 Z" fill="#ff9999"/>
+
+        <!-- Blue needle (South) -->
+        <path d="M250 440 L275 250 L250 260 Z" fill="#000099"/>
+        <path d="M250 440 L225 250 L250 260 Z" fill="#9999ff"/>
+    </g>
+
+    <!-- CENTER -->
+    <circle cx="250" cy="250" r="16" fill="#111"/>
+    <circle cx="246" cy="246" r="6" fill="#fff" opacity="0.4"/>
+
+    <!-- GLASS - Solid color with opacity -->
+    <ellipse cx="250" cy="190" rx="150" ry="90" fill="#ffffff" opacity="0.2"/>
+
+    <!-- EDGE SHINE -->
+    <circle cx="250" cy="250" r="238" fill="none" stroke="white" stroke-width="1.5" stroke-opacity="0.35"/>
+
+</svg>

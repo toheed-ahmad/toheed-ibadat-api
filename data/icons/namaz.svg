@@ -1,0 +1,66 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" xmlns="http://www.w3.org/2000/svg">
+    <!-- Main Carpet Perspective Shape -->
+    <polygon points="450,120 950,120 1250,780 150,780"
+        fill="#0E5A3C"/>
+
+    <!-- Golden Outer Border -->
+    <polygon points="450,120 950,120 1250,780 150,780"
+        fill="none"
+        stroke="#FFD700"
+        stroke-width="25"
+        stroke-linejoin="round"/>
+
+    <!-- Inner Carpet -->
+    <polygon points="500,170 900,170 1180,740 220,740"
+        fill="#1C7C54"
+        stroke="#FFD700"
+        stroke-width="12"
+        stroke-linejoin="round"/>
+
+    <!-- Mihrab -->
+    <path d="
+        M620 230
+        Q700 120 780 230
+        L780 350
+        Q700 300 620 350
+        L620 230 Z"
+        fill="#124E38"
+        stroke="#FFD700"
+        stroke-width="10"
+        stroke-linejoin="round"/>
+
+    <!-- Inner Mihrab Highlight -->
+    <path d="
+        M650 250
+        Q700 170 750 250
+        L750 320
+        Q700 290 650 320
+        L650 250 Z"
+        fill="none"
+        stroke="#FFF1A8"
+        stroke-width="4"
+        opacity="0.6"/>
+
+    <!-- Center Decorative Pattern - Large Ellipse -->
+    <ellipse cx="700" cy="520" rx="140" ry="90"
+        fill="none"
+        stroke="#FFD700"
+        stroke-width="8"/>
+
+    <!-- Center Decorative Pattern - Small Ellipse -->
+    <ellipse cx="700" cy="520" rx="70" ry="45"
+        fill="none"
+        stroke="#FFD700"
+        stroke-width="6"/>
+
+    <!-- Perspective Pattern Lines -->
+    <line x1="520" y1="430" x2="880" y2="430"
+        stroke="#FFD700"
+        stroke-width="4"
+        opacity="0.5"/>
+
+    <line x1="420" y1="620" x2="980" y2="620"
+        stroke="#FFD700"
+        stroke-width="4"
+        opacity="0.5"/>
+</svg>

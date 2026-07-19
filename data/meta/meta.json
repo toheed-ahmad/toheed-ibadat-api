@@ -11,7 +11,7 @@
         "en": "Durood"
       },
       "file": "durood_sharif.json",
-      "icon": "📿"
+      "icon": "icons/hadith.svg"
     },
     {
       "id": "dua",
@@ -20,7 +20,7 @@
         "en": "Duas"
       },
       "file": "masnoon_duain.json",
-      "icon": "🤲"
+      "icon": "icons/dua.png"
     },
     {
       "id": "hadiths",
@@ -29,7 +29,7 @@
         "en": "Hadiths"
       },
       "file": "forty_hadiths.json",
-      "icon": "📖"
+      "icon": "icons/hadith.svg"
     },
     {
       "id": "kalma_iman",
@@ -38,7 +38,7 @@
         "en": "Kalmas"
       },
       "file": "kalma_iman.json",
-      "icon": "☪️"
+      "icon": "icons/kalma.png"
     },
     {
       "id": "namaz",
@@ -47,7 +47,7 @@
         "en": "Namaz"
       },
       "file": "namaz.json",
-      "icon": "🕌"
+      "icon": "icons/namaz.png"
     },
     {
       "id": "khutbat",
@@ -56,7 +56,7 @@
         "en": "Khutbat"
       },
       "file": "khutbat.json",
-      "icon": "🎙️"
+      "icon": "icons/khutbat.png"
     },
     {
       "id": "roza",
@@ -65,7 +65,7 @@
         "en": "Roza"
       },
       "file": "roza.json",
-      "icon": "🌙"
+      "icon": "icons/roza.png"
     },
     {
       "id": "zakat",
@@ -74,7 +74,7 @@
         "en": "Zakat"
       },
       "file": "zakat.json",
-      "icon": "💰"
+      "icon": "icons/zakat.png"
     },
     {
       "id": "hajj",
@@ -83,7 +83,7 @@
         "en": "Hajj"
       },
       "file": "haj_umrah.json",
-      "icon": "🕋"
+      "icon": "icons/hajj.png"
     },
     {
       "id": "qurbani",
@@ -92,7 +92,7 @@
         "en": "Qurbani"
       },
       "file": "qurbani.json",
-      "icon": "🐏"
+      "icon": "icons/qurbani.png"
     }
   ]
 }
