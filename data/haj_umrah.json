@@ -7,7 +7,7 @@
       "category": "hajj_virtues",
       "chapter_id": 1,
       "title": {
-        "ur": "باب حج کی فرضیت اور فضیلت",
+        "ur": " حج کی فرضیت اور فضیلت",
         "hi": "हज की फ़र्ज़ियत और फ़ज़ीलत",
         "en": "Obligation & Virtues of Hajj"
       },
@@ -59,7 +59,7 @@
       "category": "hajj_talbiyah",
       "chapter_id": 2,
       "title": {
-        "ur": "باب احرام اور تلبیہ کے احکام",
+        "ur": " احرام اور تلبیہ کے احکام",
         "hi": "एहराम और तल्बिया के अहकाम",
         "en": "Rules of Ihram & Talbiyah"
       },
@@ -91,7 +91,7 @@
       "category": "hajj_tawaf",
       "chapter_id": 3,
       "title": {
-        "ur": "باب طواف اور صفا و مروہ کی سعی",
+        "ur": " طواف اور صفا و مروہ کی سعی",
         "hi": "तवाफ़ और सफ़ा व मरवा की सई",
         "en": "Circumambulation (Tawaf) & Sa'i"
       },
@@ -143,7 +143,7 @@
       "category": "hajj_arafah",
       "chapter_id": 4,
       "title": {
-        "ur": "باب وقوفِ عرفات (حج کا اعظم رکن)",
+        "ur": " وقوفِ عرفات (حج کا اعظم رکن)",
         "hi": "वक़ूफ़-ए-अराफ़ात (हज का सबसे बड़ा रुक्न)",
         "en": "The Day of Arafah (The Main Pillar of Hajj)"
       },
@@ -175,7 +175,7 @@
       "category": "umrah_virtues",
       "chapter_id": 5,
       "title": {
-        "ur": "باب رمضان میں عمرہ کی فضیلت",
+        "ur": " رمضان میں عمرہ کی فضیلت",
         "hi": "रमज़ान में उमराह की फ़ज़ीलत",
         "en": "Virtue of Performing Umrah in Ramadan"
       },

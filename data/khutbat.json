@@ -7,7 +7,7 @@
       "category": "khutbah",
       "chapter_id": 1,
       "title": {
-        "ur": "باب خطبہ جمعہ",
+        "ur": " خطبہ جمعہ",
         "hi": "जुमा का खुतबा",
         "en": "Friday Sermon"
       },
@@ -51,7 +51,7 @@
       "category": "khutbah",
       "chapter_id": 2,
       "title": {
-        "ur": "باب خطبہ عید الفطر",
+        "ur": " خطبہ عید الفطر",
         "hi": "ईद-उल-फितर का खुतबा",
         "en": "Eid-ul-Fitr Sermon"
       },
@@ -95,7 +95,7 @@
       "category": "khutbah",
       "chapter_id": 3,
       "title": {
-        "ur": "باب خطبہ عید الاضحیٰ",
+        "ur": " خطبہ عید الاضحیٰ",
         "hi": "ईद-उल-अज़हा का खुतबा",
         "en": "Eid-ul-Adha Sermon"
       },
@@ -139,7 +139,7 @@
       "category": "khutbah",
       "chapter_id": 4,
       "title": {
-        "ur": "باب خطبہ نکاح",
+        "ur": " خطبہ نکاح",
         "hi": "निकाह का खुतबा",
         "en": "Nikah Sermon"
       },
