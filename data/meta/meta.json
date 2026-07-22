@@ -1,14 +1,16 @@
 {
   "app_name": {
     "ur": "یاد الٰہی",
-    "en": "Yade-Ilahi"
+    "en": "Yade-Ilahi",
+    "hi": "याद-ए-इलाही"
   },
   "modules": [
     {
       "id": "durood",
       "title": {
         "ur": "درود شریف",
-        "en": "Durood"
+        "en": "Durood",
+        "hi": "दुरूद शरीफ"
       },
       "file": "durood_sharif.json",
       "icon": "icons/hadith.svg"
@@ -17,7 +19,8 @@
       "id": "dua",
       "title": {
         "ur": "دعائیں",
-        "en": "Duas"
+        "en": "Duas",
+        "hi": "दुआएं"
       },
       "file": "masnoon_duain.json",
       "icon": "icons/dua.svg"
@@ -26,7 +29,8 @@
       "id": "hadiths",
       "title": {
         "ur": "احادیث",
-        "en": "Hadiths"
+        "en": "Hadiths",
+        "hi": "अहादीस"
       },
       "file": "forty_hadiths.json",
       "icon": "icons/hadith.svg"
@@ -35,7 +39,8 @@
       "id": "kalma_iman",
       "title": {
         "ur": "کلمات",
-        "en": "Kalmas"
+        "en": "Kalmas",
+        "hi": "कलमा और ईमान"
       },
       "file": "kalma_iman.json",
       "icon": "icons/kalma.svg"
@@ -44,25 +49,18 @@
       "id": "namaz",
       "title": {
         "ur": "نماز",
-        "en": "Namaz"
+        "en": "Namaz",
+        "hi": "नमाज़"
       },
       "file": "namaz.json",
       "icon": "icons/namaz.svg"
     },
     {
-      "id": "khutbat",
-      "title": {
-        "ur": "خطبات",
-        "en": "Khutbat"
-      },
-      "file": "khutbat.json",
-      "icon": "icons/khutbat.svg"
-    },
-    {
       "id": "roza",
       "title": {
         "ur": "روزہ",
-        "en": "Roza"
+        "en": "Roza",
+        "hi": "रोज़ा"
       },
       "file": "roza.json",
       "icon": "icons/roza.svg"
@@ -71,7 +69,8 @@
       "id": "zakat",
       "title": {
         "ur": "زکوٰۃ",
-        "en": "Zakat"
+        "en": "Zakat",
+        "hi": "ज़कात"
       },
       "file": "zakat.json",
       "icon": "icons/zakat.svg"
@@ -80,7 +79,8 @@
       "id": "hajj",
       "title": {
         "ur": "حج و عمرہ",
-        "en": "Hajj"
+        "en": "Hajj",
+        "hi": "हज और उमराह"
       },
       "file": "haj_umrah.json",
       "icon": "icons/hajj.svg"
@@ -89,10 +89,21 @@
       "id": "qurbani",
       "title": {
         "ur": "قربانی",
-        "en": "Qurbani"
+        "en": "Qurbani",
+        "hi": "कुर्बानी"
       },
       "file": "qurbani.json",
       "icon": "icons/qurbani.svg"
+    },
+    {
+      "id": "khutbat",
+      "title": {
+        "ur": "خطبات",
+        "en": "Khutbat",
+        "hi": "खुत्बात"
+      },
+      "file": "khutbat.json",
+      "icon": "icons/khutbat.svg"
     }
   ]
 }
