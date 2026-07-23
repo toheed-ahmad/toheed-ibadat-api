@@ -1,0 +1,279 @@
+{
+  "prayers": {
+    "Fajr": [
+      {
+        "arabic": "رَكْعَتَا الْفَجْرِ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا",
+        "urdu": "فجر کی دو رکعت (سنت) دنیا اور جو کچھ اس میں ہے، اس سے بہتر ہیں۔",
+        "hindi": "फज्र की दो रकअत (सुन्नत) दुनिया और उसमें जो कुछ है, उससे बेहतर हैं।",
+        "english": "The two rak'ahs of Fajr (Sunnah) are better than the world and all that it contains.",
+        "reference": "Sahih Muslim: 725",
+        "notification_text": "🕌 Fajr ka waqt hogaya — Duniya wa mafeeha se behtar namaz ada kijiye"
+      },
+      {
+        "arabic": "مَنْ صَلَّى الْبَرَدَيْنِ دَخَلَ الْجَنَّةَ",
+        "urdu": "جس نے دو ٹھنڈے وقتوں کی نماز (فجر اور عصر) پڑھیں، وہ جنت میں داخل ہوگا۔",
+        "hindi": "जिसने दो ठंडे समयों की नमाज़ (फज्र और अस्र) पढ़ीं, वह जन्नत में दाखिल होगा।",
+        "english": "Whoever prays the two cool prayers (Fajr and Asr) will enter Paradise.",
+        "reference": "Sahih Bukhari: 574",
+        "notification_text": "🕌 Fajr ka waqt hogaya — Jannat mein dakhile ka zariya banne wali namaz ada karein"
+      },
+      {
+        "arabic": "إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا",
+        "urdu": "بے شک فجر کے وقت قرآن کا پڑھنا (فرشتوں کی) حاضری کا وقت ہے۔",
+        "hindi": "बेशक फज्र के वक्त क़ुरआन का पढ़ना (फ़रिश्तों की) हाज़िरी का वक्त है।",
+        "english": "Indeed, the recitation of the Quran at Fajr is witnessed (by the angels).",
+        "reference": "Surah Al-Isra: 78",
+        "notification_text": "🕌 Fajr ka waqt hogaya — Farishton ki gawahi wali namaz aur tilawat ka ehtemam karein"
+      },
+      {
+        "arabic": "مَنْ صَلَّى الصُّبْحَ فَهُوَ فِي ذِمَّةِ اللَّهِ",
+        "urdu": "جس نے صبح کی نماز پڑھی، وہ اللہ کی امان میں آ گیا۔",
+        "hindi": "जिसने सुबह की नमाज़ पढ़ी, वह अल्लाह की अमान में आ गया।",
+        "english": "Whoever prays the morning prayer (Fajr) is under the protection of Allah.",
+        "reference": "Sahih Muslim: 657",
+        "notification_text": "🕌 Fajr ka waqt hogaya — Aaj ka din Allah ki aman mein guzre, namaz padhein"
+      }
+    ],
+
+    "Dhuhr": [
+      {
+        "arabic": "مَنْ حَافَظَ عَلَى أَرْبَعِ رَكَعَاتٍ قَبْلَ الظُّهْرِ وَأَرْبَعٍ بَعْدَهَا حَرَّمَهُ اللَّهُ عَلَى النَّارِ",
+        "urdu": "جو شخص ظہر سے پہلے چار اور بعد میں چار رکعتوں کی پابندی کرے، اللہ اس کو آگ پر حرام کر دیتا ہے۔",
+        "hindi": "जो शख्स ज़ोहर से पहले चार और बाद में चार रकअतों की पाबंदी करे, अल्लाह उसे आग पर हराम कर देता है।",
+        "english": "Whoever regularly prays four rak'ahs before Dhuhr and four after it, Allah will make him forbidden for the Fire.",
+        "reference": "Sunan Tirmidhi: 428",
+        "notification_text": "🕌 Zohar ka waqt hogaya — Allah ki rehmat aur Jahannam se azadi hasil karne ka mauqa"
+      },
+      {
+        "arabic": "إِنَّهَا سَاعَةٌ تُفْتَحُ فِيهَا أَبْوَابُ السَّمَاءِ فَأُحِبُّ أَنْ يَصْعَدَ لِي فِيهَا عَمَلٌ صَالِحٌ",
+        "urdu": "یہ (ظہر کا) ایسا وقت ہے جس میں آسمان کے دروازے کھولے جاتے ہیں، میں چاہتا ہوں کہ اس وقت میرا کوئی نیک عمل اوپر جائے۔",
+        "hindi": "यह (ज़ोहर का) ऐसा वक़्त है जिसमें आसमान के दरवाज़े खोले जाते हैं, मैं चाहता हूँ कि इस वक़्त मेरा कोई नेक अमल ऊपर जाए।",
+        "english": "It is an hour in which the gates of heaven are opened, and I love that a good deed of mine should ascend during it.",
+        "reference": "Sunan Tirmidhi: 478",
+        "notification_text": "🕌 Zohar ka waqt hogaya — Aasman ke darwaze khul gaye hain, nek aamal ka waqt hai"
+      },
+      {
+        "arabic": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلى غَسَقِ اللَّيْلِ",
+        "urdu": "نماز قائم کیجیے سورج کے ڈھلنے سے لے کر رات کے اندھیرے تک۔",
+        "hindi": "नमाज़ क़ायम कीजिए सूरज के ढलने से लेकर रात के अंधेरे तक।",
+        "english": "Establish prayer at the decline of the sun until the darkness of the night.",
+        "reference": "Surah Al-Isra: 78",
+        "notification_text": "🕌 Zohar ka waqt hogaya — Rab ka hukm maan kar namaz ki taraf aaiye"
+      }
+    ],
+
+    "Asr": [
+      {
+        "arabic": "مَنْ تَرَكَ صَلاةَ العَصْرِ حَبِطَ عَمَلُهُ",
+        "urdu": "جس نے عصر کی نماز چھوڑ دی، اس کے اعمال ضائع ہو گئے۔",
+        "hindi": "जिसने अस्र की नमाज़ छोड़ दी, उसके आमाल ज़ाया हो गए।",
+        "english": "Whoever leaves the Asr prayer, his deeds are nullified.",
+        "reference": "Sahih Bukhari: 553",
+        "notification_text": "🕌 Asr ka waqt hogaya — Apne aamal ki hifazat ke liye namaz waqt par ada karein"
+      },
+      {
+        "arabic": "الَّذِي تَفُوتُهُ صَلَاةُ الْعَصْرِ كَأَنَّمَا وُتِرَ أَهْلَهُ وَمَالَهُ",
+        "urdu": "جس کی عصر کی نماز چھوٹ جائے، گویا اس کا گھر بار اور مال و دولت سب لٹ گیا۔",
+        "hindi": "जिसकी अस्र की नमाज़ छूट जाए, गोया उसका घर बार और माल-ओ-दौलत सब लुट गया।",
+        "english": "Whoever misses the Asr prayer, it is as if he has lost his family and property.",
+        "reference": "Sahih Bukhari: 552",
+        "notification_text": "🕌 Asr ka waqt hogaya — Tamam kaam chhod kar namaz ki taraf mutawajjeh hon"
+      },
+      {
+        "arabic": "حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَىٰ وَقُومُوا لِلَّهِ قَانِتِينَ",
+        "urdu": "تمام نمازوں کی حفاظت کرو بالخصوص درمیانی نماز (عصر) کی، اور اللہ کے سامنے باادب کھڑے ہو۔",
+        "hindi": "तमाम नमाज़ों की हिफ़ाज़त करो ख़ुसूसन दरमियानी नमाज़ (अस्र) की, और अल्लाह के सामने बाअदब खड़े हो।",
+        "english": "Guard the prayers, especially the middle prayer (Asr), and stand before Allah in devotion.",
+        "reference": "Surah Al-Baqarah: 238",
+        "notification_text": "🕌 Asr ka waqt hogaya — Namaz-e-Wusta ki pabandi kijiye"
+      }
+    ],
+
+    "Maghrib": [
+      {
+        "arabic": "لا تَزَالُ أُمَّتِي بِخَيْرٍ مَا عَجَّلُوا الْمَغْرِبَ",
+        "urdu": "میری امت اس وقت تک خیر پر رہے گی جب تک وہ مغرب کی نماز میں جلدی کرتی رہے گی۔",
+        "hindi": "मेरी उम्मत उस वक़्त तक ख़ैर पर रहेगी जब तक वह मग़रिब की नमाज़ में जल्दी करती रहेगी।",
+        "english": "My Ummah will remain upon goodness as long as they hasten the Maghrib prayer.",
+        "reference": "Sunan Abi Dawud: 418",
+        "notification_text": "🕌 Maghrib ka waqt hogaya — Bila takheer namaz ada kijiye"
+      },
+      {
+        "arabic": "ثَلاَثَةٌ لاَ تُرَدُّ دَعْوَتُهُمْ... وَالصَّائِمُ حِينَ يُفْطِرُ",
+        "urdu": "تین لوگوں کی دعا رد نہیں ہوتی، ان میں سے ایک روزہ دار کی دعا افطار کے وقت ہے۔",
+        "hindi": "तीन लोगों की दुआ रद्द नहीं होती, उनमें से एक रोज़ेदार की दुआ इफ्तार के वक़्त है।",
+        "english": "The supplication of three people is not rejected: ... the fasting person when he breaks his fast.",
+        "reference": "Sunan Tirmidhi: 2526",
+        "notification_text": "🕌 Maghrib ka waqt hogaya — Namaz ada karein aur dua ka ehtemam karein"
+      },
+      {
+        "arabic": "فَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+        "urdu": "پس اللہ کی پاکی بیان کرو جب تم شام کرتے ہو اور جب صبح کرتے ہو۔",
+        "hindi": "पस अल्लाह की पाकी बयान करो जब तुम शाम करते हो और जब सुबह करते हो।",
+        "english": "So glorify Allah when you enter the evening and when you enter the morning.",
+        "reference": "Surah Ar-Rum: 17",
+        "notification_text": "🕌 Maghrib ka waqt hogaya — Shaam ke waqt Allah ki hamd-o-sana bayan kijiye"
+      }
+    ],
+
+    "Isha": {
+      "quotes": [
+        {
+          "arabic": "لَيْسَ صَلاَةٌ أَثْقَلَ عَلَى المُنَافِقِينَ مِنْ الفَجْرِ وَالعِشَاءِ",
+          "urdu": "منافقین پر عشاء اور فجر کی نماز سے زیادہ بھاری کوئی نماز نہیں ہے۔",
+          "hindi": "मुनाफ़िक़ीन पर इशा और फज्र की नमाज़ से ज़्यादा भारी कोई नमाज़ नहीं है।",
+          "english": "There is no prayer heavier on the hypocrites than Fajr and Isha.",
+          "reference": "Sahih Bukhari: 657",
+          "notification_text": "🕌 Isha ka waqt hogaya — Ba-jamaat namaz ada karke nifaq se door rahein"
+        },
+        {
+          "arabic": "مَنْ صَلَّى الْعِشَاءَ فِي جَمَاعَةٍ فَكَأَنَّمَا قَامَ نِصْفَ اللَّيْلِ",
+          "urdu": "جس نے عشاء کی نماز جماعت سے پڑھی، اس نے آدھی رات کے قیام کا ثواب پایا۔",
+          "hindi": "जिसने इशा की नमाज़ जमात से पढ़ी, उसने आधी रात के क़ियाम का सवाब पाया।",
+          "english": "Whoever prays Isha in congregation, it is as if he has prayed half of the night.",
+          "reference": "Sahih Muslim: 656",
+          "notification_text": "🕌 Isha ka waqt hogaya — Aadhi raat ke qayam ka sawab hasil kijiye"
+        },
+        {
+          "arabic": "وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَأَدْبَارَ السُّجُودِ",
+          "urdu": "اور رات کے کچھ حصے میں اور نمازوں کے بعد بھی اللہ کی تسبیح بیان کیجئے۔",
+          "hindi": "और रात के कुछ हिस्से में और नमाज़ों के बाद भी अल्लाह की तस्बीह बयान कीजिए।",
+          "english": "And in the night, glorify Him and after the prostrations (prayers).",
+          "reference": "Surah Qaf: 40",
+          "notification_text": "🕌 Isha ka waqt hogaya — Din ke ikhtitam par apne Rab ke saamne sajda raiz hon"
+        }
+      ]
+    }
+  },
+
+  "before_prayer": {
+    "general": [
+      {
+        "arabic": "إِذَا نُودِيَ لِلصَّلَاةِ فَاذْهَبُوا وَأَنْتُمْ تَمْشُونَ وَعَلَيْكُمُ السَّكِينَةُ",
+        "urdu": "جب نماز کے لیے بلایا جائے تو وقار اور سکون کے ساتھ چل کر آؤ۔",
+        "hindi": "जब नमाज़ के लिए बुलाया जाए तो वक़ार और सुकून के साथ चल कर आओ।",
+        "english": "When the call to prayer is made, come walking with tranquility and dignity.",
+        "reference": "Sahih Bukhari: 636",
+        "notification_text": "⏳ Namaz ka waqt qareeb hai — Sukoon ke sath wuzu karein aur tayyari karein"
+      },
+      {
+        "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ",
+        "urdu": "اے ایمان والو! جب تم نماز کے لیے اٹھو تو اپنے چہروں اور ہاتھوں کو کہنیوں تک دھو لو۔",
+        "hindi": "ए ईमान वालो! जब तुम नमाज़ के लिए उठो तो अपने चेहरों और हाथों को कोहनियों तक धो लो।",
+        "english": "O you who believe! When you rise for prayer, wash your faces and your hands up to the elbows.",
+        "reference": "Surah Al-Ma'idah: 6",
+        "notification_text": "⏳ Namaz ka waqt qareeb hai — Achi tarah wuzu karke namaz ke liye tayyar hon"
+      }
+    ]
+  },
+
+  "iqamah": {
+    "general": [
+      {
+        "arabic": "سَوُّوا صُفُوفَكُمْ فَإِنَّ تَسْوِيَةَ الصُّفُوفِ مِنْ إِقَامَةِ الصَّلَاةِ",
+        "urdu": "اپنی صفیں سیدھی کرو، کیونکہ صفیں سیدھی کرنا نماز کا قائم کرنا (کمال) ہے۔",
+        "hindi": "अपनी सफ़ें सीधी करो, क्योंकि सफ़ें सीधी करना नमाज़ का क़ायम करना (कमाल) है।",
+        "english": "Straighten your rows, for straightening the rows is part of perfecting the prayer.",
+        "reference": "Sahih Bukhari: 723",
+        "notification_text": "📢 Iqamah hone wali hai — Safein durust karein aur namaz ke liye khade ho jayein"
+      },
+      {
+        "arabic": "أَقِيمُوا الصُّفُوفَ وَحَاذُوا بَيْنَ الأَكْتَافِ",
+        "urdu": "صفیں سیدھی کرو اور کندھوں سے کندھے ملا کر کھڑے ہو۔",
+        "hindi": "सफ़ें सीधी करो और कंधों से कंधे मिला कर खड़े हो।",
+        "english": "Straighten the rows and align your shoulders with each other.",
+        "reference": "Sunan Abi Dawud: 666",
+        "notification_text": "📢 Iqamah hone wali hai — Kandhe se kandha mila kar safein mukammal karein"
+      }
+    ]
+  },
+
+  "ramadan": {
+    "general": [
+      {
+        "arabic": "شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ الْقُرْآنُ هُدًى لِلنَّاسِ",
+        "urdu": "رمضان کا مہینہ وہ ہے جس میں قرآن نازل کیا گیا، جو لوگوں کے لیے ہدایت ہے۔",
+        "hindi": "रमज़ान का महीना वह है जिसमें क़ुरआन नाज़िल किया गया, जो लोगों के लिए हिदायत है।",
+        "english": "The month of Ramadan is that in which the Quran was revealed as guidance for mankind.",
+        "reference": "Surah Al-Baqarah: 185",
+        "notification_text": "🌙 Ramadan ul Mubarak — Quran ki barkaton aur hidayat ka mahina"
+      },
+      {
+        "arabic": "مَنْ صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ",
+        "urdu": "جس نے ایمان اور ثواب کی نیت سے رمضان کے روزے رکھے، اس کے پچھلے تمام گناہ معاف کر دیے جاتے ہیں۔",
+        "hindi": "जिसने ईमान और सवाब की नीयत से रमज़ान के रोज़े रखे, उसके पिछले सारे गुनाह माफ़ कर दिए जाते हैं।",
+        "english": "Whoever fasts in Ramadan out of faith and seeking reward, his previous sins will be forgiven.",
+        "reference": "Sahih Bukhari: 38",
+        "notification_text": "🌙 Ramadan ul Mubarak — Roze rakhein aur gunahon ki bakhshish hasil karein"
+      }
+    ],
+
+    "sehri": [
+      {
+        "arabic": "تَسَحَّرُوا فَإِنَّ فِي السَّحُورِ بَرَكَةً",
+        "urdu": "سحری کھایا کرو، کیونکہ سحری میں برکت ہے۔",
+        "hindi": "सहरी खाया करो, क्योंकि सहरी में बरकत है।",
+        "english": "Have Sehri (pre-dawn meal), for indeed in Sehri there is blessing.",
+        "reference": "Sahih Bukhari: 1923",
+        "notification_text": "🌙 Sehri ka waqt hai — Barkat wali sehri zaroor kijiye"
+      },
+      {
+        "arabic": "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى الْمُتَسَحِّرِينَ",
+        "urdu": "بے شک اللہ تعالی اور اس کے فرشتے سحری کرنے والوں پر رحمت بھیجتے ہیں۔",
+        "hindi": "बेशक अल्लाह तआला और उसके फ़रिश्ते सहरी करने वालों पर रहमत भेजते हैं।",
+        "english": "Indeed, Allah and His angels send mercy upon those who have Sehri.",
+        "reference": "Sahih Ibn Hibban: 3467",
+        "notification_text": "🌙 Sehri ka waqt hai — Allah ki rehmatein hasil karne ke liye uthein"
+      }
+    ],
+
+    "iftar": [
+      {
+        "arabic": "لِلصَّائِمِ فَرْحَتَانِ يَفْرَحُهُمَا: إِذَا أَفْطَرَ فَرِحَ",
+        "urdu": "روزہ دار کے لیے دو خوشیاں ہیں: ایک جب وہ افطار کرتا ہے تو خوش ہوتا ہے، اور دوسری جب اپنے رب سے ملے گا۔",
+        "hindi": "रोज़ेदार के लिए दो खुशियाँ हैं: एक जब वह इफ्तार करता है तो खुश होता है, और दूसरी जब अपने रब से मिलेगा।",
+        "english": "The fasting person has two joys: one when he breaks his fast, and one when he meets his Lord.",
+        "reference": "Sahih Muslim: 1151",
+        "notification_text": "🌅 Iftar ka waqt hogaya — Allah ke shukr ke sath iftar karein"
+      },
+      {
+        "arabic": "ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الأَجْرُ إِنْ شَاءَ اللَّهُ",
+        "urdu": "پیاس ختم ہو گئی، رگیں تر ہو گئیں اور ان شاء اللہ اجر ثابت ہو گیا۔",
+        "hindi": "प्यास खत्म हो गई, रगें तर हो गईं और इंशा अल्लाह अजर साबित हो गया।",
+        "english": "The thirst is gone, the veins are moistened, and the reward is confirmed, if Allah wills.",
+        "reference": "Sunan Abi Dawud: 2357",
+        "notification_text": "🌅 Iftar ka waqt hogaya — Masnoon dua padh kar iftar karein"
+      }
+    ],
+
+    "taraweeh": [
+      {
+        "arabic": "مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ",
+        "urdu": "جس نے رمضان میں ایمان اور ثواب کی نیت سے قیام (تراویح) کیا، اس کے پچھلے گناہ معاف کر دیے جاتے ہیں۔",
+        "hindi": "जिसने रमज़ान में ईमान और सवाब की नीयत से क़ियाम (तरावीह) किया, उसके पिछले गुनाह माफ़ कर दिए जाते हैं।",
+        "english": "Whoever stands (in prayer) in Ramadan out of faith and seeking reward, his previous sins will be forgiven.",
+        "reference": "Sahih Bukhari: 37",
+        "notification_text": "🕌 Taraweeh ka waqt hogaya — Maghfirat aur nekiyon ke husool ka behtareen mauqa"
+      }
+    ],
+
+    "last_ashra": [
+      {
+        "arabic": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ",
+        "urdu": "لیلۃ القدر ہزار مہینوں (کی عبادت) سے بہتر ہے۔",
+        "hindi": "लैलतुल क़द्र हज़ार महीनों (की इबादत) से बेहतर है।",
+        "english": "The Night of Decree (Laylatul Qadr) is better than a thousand months.",
+        "reference": "Surah Al-Qadr: 3",
+        "notification_text": "🌙 Aakhri Ashra — Laylatul Qadr ko talaash karein jo hazaar mahino se afzal hai"
+      },
+      {
+        "arabic": "تَحَرَّوْا لَيْلَةَ الْقَدْرِ فِي الْوِتْرِ مِنَ الْعَشْرِ الأَوَاخِرِ مِنْ رَمَضَانَ",
+        "urdu": "لیلۃ القدر کو رمضان کے آخری عشرے کی طاق راتوں میں تلاش کرو۔",
+        "hindi": "लैलतुल क़द्र को रमज़ान के आख़िरी अशरे की ताक़ रातों में तलाश करो।",
+        "english": "Seek Laylatul Qadr in the odd nights of the last ten days of Ramadan.",
+        "reference": "Sahih Bukhari: 2017",
+        "notification_text": "🌙 Aakhri Ashra — Taaq raaton mein ibadat barhayein aur maghfirat maangein"
+      }
+    ]
+  }
+}
