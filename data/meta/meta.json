@@ -6,6 +6,16 @@
   },
   "modules": [
     {
+      "id": "asma_ul_husna",
+      "title": {
+        "ur": "اسماء الحسنیٰ ",
+        "en": "Asma ul Husna",
+        "hi": " अस्मा उल हुस्ना"
+      },
+      "file": "asma_ul_husna.json",
+      "icon": "icons/allah.svg"
+    },
+    {
       "id": "durood",
       "title": {
         "ur": "درود شریف",
