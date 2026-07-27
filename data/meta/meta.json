@@ -6,14 +6,14 @@
   },
   "modules": [
     {
-      "id": "asma_ul_husna",
+      "id": "hadiths",
       "title": {
-        "ur": "اسماء الحسنیٰ ",
-        "en": "Asma ul Husna",
-        "hi": " अस्मा उल हुस्ना"
+        "ur": "احادیث",
+        "en": "Hadiths",
+        "hi": "अहादीस"
       },
-      "file": "asma_ul_husna.json",
-      "icon": "icons/allah.svg"
+      "file": "forty_hadiths.json",
+      "icon": "icons/hadith.svg"
     },
     {
       "id": "durood",
@@ -33,17 +33,7 @@
         "hi": "दुआएं"
       },
       "file": "masnoon_duain.json",
-      "icon": "icons/dua.png"
-    },
-    {
-      "id": "hadiths",
-      "title": {
-        "ur": "احادیث",
-        "en": "Hadiths",
-        "hi": "अहादीस"
-      },
-      "file": "forty_hadiths.json",
-      "icon": "icons/hadith.svg"
+      "icon": "icons/dua.svg"
     },
     {
       "id": "kalma_iman",
