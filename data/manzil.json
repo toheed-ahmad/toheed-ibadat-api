@@ -1,12 +1,17 @@
-[
-  {
-    "id": 5,
-    "category": "manzil",
-    "chapter_id": 5,
-    "title": {
-      "ur": "منزل شیخ زکریا رحمہ"
-    },
-    "duas": [
+{
+  "title": {
+    "ur": "منزل شیخ زکریا رحمہ"
+  },
+  "language": "ur",
+  "chapters": [
+    {
+      "id": 1,
+      "category": "manzil",
+      "chapter_id": 1,
+      "title": {
+        "ur": " منزل "
+      },
+      "duas": [
       {
         "id": 1,
         "chapter_id": 5,
@@ -262,3 +267,4 @@
     ]
   }
 ]
+}
