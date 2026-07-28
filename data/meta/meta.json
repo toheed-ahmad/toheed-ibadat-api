@@ -26,6 +26,16 @@
       "icon": "icons/hadith.svg"
     },
     {
+      "id": "manzil",
+      "title": {
+        "ur": "منزل   ",
+        "en": "Manzil",
+        "hi": "मंज़िल"
+      },
+      "file": "manzil.json",
+      "icon": "icons/book.svg"
+    },
+    {
       "id": "dua",
       "title": {
         "ur": "دعائیں",
